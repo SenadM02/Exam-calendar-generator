@@ -134,7 +134,7 @@ btnAdd.addEventListener("click", () => {
     if(selectedSubjects.includes(selected)){
         return;
     }
-    if(selectedSubjects.length === 0){
+    if(selected === ""){
         return;
     }
 
