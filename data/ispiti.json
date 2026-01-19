@@ -1,0 +1,3890 @@
+[
+  {
+    "event": "Fizika I",
+    "startDate": "20260127T080000",
+    "endDate": "20260127T080010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Fizika I",
+    "startDate": "20260217T080000",
+    "endDate": "20260217T080010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Fizika I",
+    "startDate": "20260623T080000",
+    "endDate": "20260623T080010",
+    "place": "A2, FF009"
+  },
+  {
+    "event": "Fizika I",
+    "startDate": "20260714T080000",
+    "endDate": "20260714T080010",
+    "place": "A2, FF009"
+  },
+  {
+    "event": "Fizika I",
+    "startDate": "20260825T080000",
+    "endDate": "20260825T080010",
+    "place": "A2, FF009"
+  },
+  {
+    "event": "Fizika I",
+    "startDate": "20260915T080000",
+    "endDate": "20260915T080010",
+    "place": "A2, FF009"
+  },
+  {
+    "event": "Osnovi računarstva",
+    "startDate": "20260121T080000",
+    "endDate": "20260121T080010",
+    "place": "GA, GMM"
+  },
+  {
+    "event": "Osnovi računarstva",
+    "startDate": "20260211T080000",
+    "endDate": "20260211T080010",
+    "place": "GA, GMM"
+  },
+  {
+    "event": "Osnovi računarstva",
+    "startDate": "20260617T080000",
+    "endDate": "20260617T080010",
+    "place": "GA, G19"
+  },
+  {
+    "event": "Osnovi računarstva",
+    "startDate": "20260708T080000",
+    "endDate": "20260708T080010",
+    "place": "GA, G19"
+  },
+  {
+    "event": "Osnovi računarstva",
+    "startDate": "20260819T080000",
+    "endDate": "20260819T080010",
+    "place": "GA, G19"
+  },
+  {
+    "event": "Osnovi računarstva",
+    "startDate": "20260909T080000",
+    "endDate": "20260909T080010",
+    "place": "GA, G19"
+  },
+  {
+    "event": "Uvod u energetske sisteme",
+    "startDate": "20260129T080000",
+    "endDate": "20260129T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Uvod u energetske sisteme",
+    "startDate": "20260219T080000",
+    "endDate": "20260219T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Uvod u energetske sisteme",
+    "startDate": "20260625T080000",
+    "endDate": "20260625T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Uvod u energetske sisteme",
+    "startDate": "20260716T080000",
+    "endDate": "20260716T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Uvod u energetske sisteme",
+    "startDate": "20260827T080000",
+    "endDate": "20260827T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Uvod u energetske sisteme",
+    "startDate": "20260917T080000",
+    "endDate": "20260917T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Matematika I",
+    "startDate": "20260123T080000",
+    "endDate": "20260123T080010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Matematika I",
+    "startDate": "20260213T080000",
+    "endDate": "20260213T080010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Matematika I",
+    "startDate": "20260619T080000",
+    "endDate": "20260619T080010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Matematika I",
+    "startDate": "20260703T080000",
+    "endDate": "20260703T080010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Matematika I",
+    "startDate": "20260821T080000",
+    "endDate": "20260821T080010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Matematika I",
+    "startDate": "20260911T080000",
+    "endDate": "20260911T080010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Osnovi elektrotehnike I",
+    "startDate": "20260119T080000",
+    "endDate": "20260119T080010",
+    "place": "A2, GMM, FF009"
+  },
+  {
+    "event": "Osnovi elektrotehnike I",
+    "startDate": "20260209T080000",
+    "endDate": "20260209T080010",
+    "place": "A2, GMM, FF009"
+  },
+  {
+    "event": "Osnovi elektrotehnike I",
+    "startDate": "20260615T080000",
+    "endDate": "20260615T080010",
+    "place": "A2, FF009"
+  },
+  {
+    "event": "Osnovi elektrotehnike I",
+    "startDate": "20260706T080000",
+    "endDate": "20260706T080010",
+    "place": "A2, FF009"
+  },
+  {
+    "event": "Osnovi elektrotehnike I",
+    "startDate": "20260817T080000",
+    "endDate": "20260817T080010",
+    "place": "A2, FF009"
+  },
+  {
+    "event": "Osnovi elektrotehnike I",
+    "startDate": "20260907T080000",
+    "endDate": "20260907T080010",
+    "place": "A2, FF009"
+  },
+  {
+    "event": "Osnovi programiranja",
+    "startDate": "20260122T080000",
+    "endDate": "20260122T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Osnovi programiranja",
+    "startDate": "20260212T080000",
+    "endDate": "20260212T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Osnovi programiranja",
+    "startDate": "20260618T080000",
+    "endDate": "20260618T080010",
+    "place": "GA, GMM"
+  },
+  {
+    "event": "Osnovi programiranja",
+    "startDate": "20260709T080000",
+    "endDate": "20260709T080010",
+    "place": "GA, GMM"
+  },
+  {
+    "event": "Osnovi programiranja",
+    "startDate": "20260820T080000",
+    "endDate": "20260820T080010",
+    "place": "GA, GMM"
+  },
+  {
+    "event": "Osnovi programiranja",
+    "startDate": "20260910T080000",
+    "endDate": "20260910T080010",
+    "place": "GA, GMM"
+  },
+  {
+    "event": "Osnovi elektrotehnike II",
+    "startDate": "20260128T080000",
+    "endDate": "20260128T080010",
+    "place": "A2, FF009"
+  },
+  {
+    "event": "Osnovi elektrotehnike II",
+    "startDate": "20260218T080000",
+    "endDate": "20260218T080010",
+    "place": "A2, FF009"
+  },
+  {
+    "event": "Osnovi elektrotehnike II",
+    "startDate": "20260624T080000",
+    "endDate": "20260624T080010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Osnovi elektrotehnike II",
+    "startDate": "20260715T080000",
+    "endDate": "20260715T080010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Osnovi elektrotehnike II",
+    "startDate": "20260826T080000",
+    "endDate": "20260826T080010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Osnovi elektrotehnike II",
+    "startDate": "20260916T080000",
+    "endDate": "20260916T080010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Fizika II",
+    "startDate": "20260120T080000",
+    "endDate": "20260120T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Fizika II",
+    "startDate": "20260210T080000",
+    "endDate": "20260210T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Fizika II",
+    "startDate": "20260616T080000",
+    "endDate": "20260616T080010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Fizika II",
+    "startDate": "20260707T080000",
+    "endDate": "20260707T080010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Fizika II",
+    "startDate": "20260818T080000",
+    "endDate": "20260818T080010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Fizika II",
+    "startDate": "20260908T080000",
+    "endDate": "20260908T080010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Matematika II",
+    "startDate": "20260126T080000",
+    "endDate": "20260126T080010",
+    "place": "A2, GA, GMM"
+  },
+  {
+    "event": "Matematika II",
+    "startDate": "20260216T080000",
+    "endDate": "20260216T080010",
+    "place": "A2, GA, GMM"
+  },
+  {
+    "event": "Matematika II",
+    "startDate": "20260622T080000",
+    "endDate": "20260622T080010",
+    "place": "A2, GA, GMM"
+  },
+  {
+    "event": "Matematika II",
+    "startDate": "20260713T080000",
+    "endDate": "20260713T080010",
+    "place": "A2, GA, GMM"
+  },
+  {
+    "event": "Matematika II",
+    "startDate": "20260824T080000",
+    "endDate": "20260824T080010",
+    "place": "A2, GA, GMM"
+  },
+  {
+    "event": "Matematika II",
+    "startDate": "20260914T080000",
+    "endDate": "20260914T080010",
+    "place": "A2, GA, GMM"
+  },
+  {
+    "event": "Tehnologije za podršku tehničkom pisanju",
+    "startDate": "20260130T080000",
+    "endDate": "20260130T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Tehnologije za podršku tehničkom pisanju",
+    "startDate": "20260220T080000",
+    "endDate": "20260220T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Tehnologije za podršku tehničkom pisanju",
+    "startDate": "20260626T080000",
+    "endDate": "20260626T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Tehnologije za podršku tehničkom pisanju",
+    "startDate": "20260717T080000",
+    "endDate": "20260717T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Tehnologije za podršku tehničkom pisanju",
+    "startDate": "20260828T080000",
+    "endDate": "20260828T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Tehnologije za podršku tehničkom pisanju",
+    "startDate": "20260918T080000",
+    "endDate": "20260918T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Osnovi elektronike",
+    "startDate": "20260120T103000",
+    "endDate": "20260120T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Osnovi elektronike",
+    "startDate": "20260210T103000",
+    "endDate": "20260210T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Osnovi elektronike",
+    "startDate": "20260616T103000",
+    "endDate": "20260616T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Osnovi elektronike",
+    "startDate": "20260707T103000",
+    "endDate": "20260707T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Osnovi elektronike",
+    "startDate": "20260818T103000",
+    "endDate": "20260818T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Osnovi elektronike",
+    "startDate": "20260908T103000",
+    "endDate": "20260908T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Mjerenja u elektrotehnici",
+    "startDate": "20260130T130000",
+    "endDate": "20260130T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Mjerenja u elektrotehnici",
+    "startDate": "20260220T130000",
+    "endDate": "20260220T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Mjerenja u elektrotehnici",
+    "startDate": "20260626T130000",
+    "endDate": "20260626T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Mjerenja u elektrotehnici",
+    "startDate": "20260717T130000",
+    "endDate": "20260717T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Mjerenja u elektrotehnici",
+    "startDate": "20260828T130000",
+    "endDate": "20260828T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Mjerenja u elektrotehnici",
+    "startDate": "20260918T130000",
+    "endDate": "20260918T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Matematika III",
+    "startDate": "20260128T103000",
+    "endDate": "20260128T103010",
+    "place": "A2, GA, GMM"
+  },
+  {
+    "event": "Matematika III",
+    "startDate": "20260218T103000",
+    "endDate": "20260218T103010",
+    "place": "A2, GA, GMM"
+  },
+  {
+    "event": "Matematika III",
+    "startDate": "20260624T103000",
+    "endDate": "20260624T103010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Matematika III",
+    "startDate": "20260715T103000",
+    "endDate": "20260715T103010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Matematika III",
+    "startDate": "20260826T103000",
+    "endDate": "20260826T103010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Matematika III",
+    "startDate": "20260916T103000",
+    "endDate": "20260916T103010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Teorija električnih kola",
+    "startDate": "20260122T103000",
+    "endDate": "20260122T103010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Teorija električnih kola",
+    "startDate": "20260212T103000",
+    "endDate": "20260212T103010",
+    "place": "A2, GA, FF009"
+  },
+  {
+    "event": "Teorija električnih kola",
+    "startDate": "20260618T103000",
+    "endDate": "20260618T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Teorija električnih kola",
+    "startDate": "20260709T103000",
+    "endDate": "20260709T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Teorija električnih kola",
+    "startDate": "20260820T103000",
+    "endDate": "20260820T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Teorija električnih kola",
+    "startDate": "20260910T103000",
+    "endDate": "20260910T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Objektno-orijentisano programiranje",
+    "startDate": "20260126T130000",
+    "endDate": "20260126T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Objektno-orijentisano programiranje",
+    "startDate": "20260216T130000",
+    "endDate": "20260216T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Objektno-orijentisano programiranje",
+    "startDate": "20260622T130000",
+    "endDate": "20260622T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Objektno-orijentisano programiranje",
+    "startDate": "20260713T130000",
+    "endDate": "20260713T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Objektno-orijentisano programiranje",
+    "startDate": "20260824T130000",
+    "endDate": "20260824T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Objektno-orijentisano programiranje",
+    "startDate": "20260914T130000",
+    "endDate": "20260914T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Matrične metode u elektrotehnici (EEMS)",
+    "startDate": "20260120T103000",
+    "endDate": "20260120T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Matrične metode u elektrotehnici (EEMS)",
+    "startDate": "20260210T103000",
+    "endDate": "20260210T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Matrične metode u elektrotehnici (EEMS)",
+    "startDate": "20260616T103000",
+    "endDate": "20260616T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Matrične metode u elektrotehnici (EEMS)",
+    "startDate": "20260707T103000",
+    "endDate": "20260707T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Matrične metode u elektrotehnici (EEMS)",
+    "startDate": "20260818T103000",
+    "endDate": "20260818T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Matrične metode u elektrotehnici (EEMS)",
+    "startDate": "20260908T103000",
+    "endDate": "20260908T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Matrične metode u elektrotehnici (RI)",
+    "startDate": "20260122T130000",
+    "endDate": "20260122T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Matrične metode u elektrotehnici (RI)",
+    "startDate": "20260212T130000",
+    "endDate": "20260212T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Matrične metode u elektrotehnici (RI)",
+    "startDate": "20260618T130000",
+    "endDate": "20260618T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Matrične metode u elektrotehnici (RI)",
+    "startDate": "20260709T130000",
+    "endDate": "20260709T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Matrične metode u elektrotehnici (RI)",
+    "startDate": "20260820T130000",
+    "endDate": "20260820T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Matrične metode u elektrotehnici (RI)",
+    "startDate": "20260910T130000",
+    "endDate": "20260910T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Signali i sistemi",
+    "startDate": "20260130T103000",
+    "endDate": "20260130T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Signali i sistemi",
+    "startDate": "20260220T103000",
+    "endDate": "20260220T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Signali i sistemi",
+    "startDate": "20260626T103000",
+    "endDate": "20260626T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Signali i sistemi",
+    "startDate": "20260717T103000",
+    "endDate": "20260717T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Signali i sistemi",
+    "startDate": "20260828T103000",
+    "endDate": "20260828T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Signali i sistemi",
+    "startDate": "20260918T103000",
+    "endDate": "20260918T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Teorija elektromagnetnih polja",
+    "startDate": "20260126T103000",
+    "endDate": "20260126T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Teorija elektromagnetnih polja",
+    "startDate": "20260216T103000",
+    "endDate": "20260216T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Teorija elektromagnetnih polja",
+    "startDate": "20260622T103000",
+    "endDate": "20260622T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Teorija elektromagnetnih polja",
+    "startDate": "20260713T103000",
+    "endDate": "20260713T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Teorija elektromagnetnih polja",
+    "startDate": "20260824T103000",
+    "endDate": "20260824T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Teorija elektromagnetnih polja",
+    "startDate": "20260914T103000",
+    "endDate": "20260914T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Analogna i integrisana elektronika",
+    "startDate": "20260121T103000",
+    "endDate": "20260121T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Analogna i integrisana elektronika",
+    "startDate": "20260211T103000",
+    "endDate": "20260211T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Analogna i integrisana elektronika",
+    "startDate": "20260617T103000",
+    "endDate": "20260617T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Analogna i integrisana elektronika",
+    "startDate": "20260708T103000",
+    "endDate": "20260708T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Analogna i integrisana elektronika",
+    "startDate": "20260819T103000",
+    "endDate": "20260819T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Analogna i integrisana elektronika",
+    "startDate": "20260909T103000",
+    "endDate": "20260909T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Elektromehanička konverzija energije",
+    "startDate": "20260121T130000",
+    "endDate": "20260121T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Elektromehanička konverzija energije",
+    "startDate": "20260211T130000",
+    "endDate": "20260211T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Elektromehanička konverzija energije",
+    "startDate": "20260617T130000",
+    "endDate": "20260617T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Elektromehanička konverzija energije",
+    "startDate": "20260708T130000",
+    "endDate": "20260708T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Elektromehanička konverzija energije",
+    "startDate": "20260819T130000",
+    "endDate": "20260819T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Elektromehanička konverzija energije",
+    "startDate": "20260909T130000",
+    "endDate": "20260909T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Električna mjerenja",
+    "startDate": "20260127T103000",
+    "endDate": "20260127T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Električna mjerenja",
+    "startDate": "20260217T103000",
+    "endDate": "20260217T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Električna mjerenja",
+    "startDate": "20260623T103000",
+    "endDate": "20260623T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Električna mjerenja",
+    "startDate": "20260714T103000",
+    "endDate": "20260714T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Električna mjerenja",
+    "startDate": "20260825T103000",
+    "endDate": "20260825T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Električna mjerenja",
+    "startDate": "20260915T103000",
+    "endDate": "20260915T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Električne mašine I",
+    "startDate": "20260119T103000",
+    "endDate": "20260119T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Električne mašine I",
+    "startDate": "20260209T103000",
+    "endDate": "20260209T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Električne mašine I",
+    "startDate": "20260615T103000",
+    "endDate": "20260615T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Električne mašine I",
+    "startDate": "20260706T103000",
+    "endDate": "20260706T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Električne mašine I",
+    "startDate": "20260817T103000",
+    "endDate": "20260817T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Električne mašine I",
+    "startDate": "20260907T103000",
+    "endDate": "20260907T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Numeričke metode u elektrotehnici",
+    "startDate": "20260123T130000",
+    "endDate": "20260123T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Numeričke metode u elektrotehnici",
+    "startDate": "20260213T130000",
+    "endDate": "20260213T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Numeričke metode u elektrotehnici",
+    "startDate": "20260619T130000",
+    "endDate": "20260619T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Numeričke metode u elektrotehnici",
+    "startDate": "20260703T130000",
+    "endDate": "20260703T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Numeričke metode u elektrotehnici",
+    "startDate": "20260821T130000",
+    "endDate": "20260821T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Numeričke metode u elektrotehnici",
+    "startDate": "20260911T130000",
+    "endDate": "20260911T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Programski alati u elektroenergetici",
+    "startDate": "20260121T103000",
+    "endDate": "20260121T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Programski alati u elektroenergetici",
+    "startDate": "20260211T103000",
+    "endDate": "20260211T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Programski alati u elektroenergetici",
+    "startDate": "20260617T103000",
+    "endDate": "20260617T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Programski alati u elektroenergetici",
+    "startDate": "20260708T103000",
+    "endDate": "20260708T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Programski alati u elektroenergetici",
+    "startDate": "20260819T103000",
+    "endDate": "20260819T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Programski alati u elektroenergetici",
+    "startDate": "20260909T103000",
+    "endDate": "20260909T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Elektroenergetske prenosne i distributivne mreže",
+    "startDate": "20260129T130000",
+    "endDate": "20260129T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Elektroenergetske prenosne i distributivne mreže",
+    "startDate": "20260219T130000",
+    "endDate": "20260219T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Elektroenergetske prenosne i distributivne mreže",
+    "startDate": "20260625T130000",
+    "endDate": "20260625T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Elektroenergetske prenosne i distributivne mreže",
+    "startDate": "20260716T130000",
+    "endDate": "20260716T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Elektroenergetske prenosne i distributivne mreže",
+    "startDate": "20260827T130000",
+    "endDate": "20260827T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Elektroenergetske prenosne i distributivne mreže",
+    "startDate": "20260917T130000",
+    "endDate": "20260917T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Senzori i pretvarači",
+    "startDate": "20260129T130000",
+    "endDate": "20260129T130010",
+    "place": "G Lab EM"
+  },
+  {
+    "event": "Senzori i pretvarači",
+    "startDate": "20260219T130000",
+    "endDate": "20260219T130010",
+    "place": "G Lab EM"
+  },
+  {
+    "event": "Senzori i pretvarači",
+    "startDate": "20260625T130000",
+    "endDate": "20260625T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Senzori i pretvarači",
+    "startDate": "20260716T130000",
+    "endDate": "20260716T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Senzori i pretvarači",
+    "startDate": "20260827T130000",
+    "endDate": "20260827T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Senzori i pretvarači",
+    "startDate": "20260917T130000",
+    "endDate": "20260917T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Električne instalacije niskog napona",
+    "startDate": "20260127T130000",
+    "endDate": "20260127T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Električne instalacije niskog napona",
+    "startDate": "20260217T130000",
+    "endDate": "20260217T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Električne instalacije niskog napona",
+    "startDate": "20260623T130000",
+    "endDate": "20260623T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Električne instalacije niskog napona",
+    "startDate": "20260714T130000",
+    "endDate": "20260714T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Električne instalacije niskog napona",
+    "startDate": "20260825T130000",
+    "endDate": "20260825T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Električne instalacije niskog napona",
+    "startDate": "20260915T130000",
+    "endDate": "20260915T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Statistička teorija telekomunikacija",
+    "startDate": "20260129T130000",
+    "endDate": "20260129T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Statistička teorija telekomunikacija",
+    "startDate": "20260219T130000",
+    "endDate": "20260219T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Statistička teorija telekomunikacija",
+    "startDate": "20260625T130000",
+    "endDate": "20260625T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Statistička teorija telekomunikacija",
+    "startDate": "20260716T130000",
+    "endDate": "20260716T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Statistička teorija telekomunikacija",
+    "startDate": "20260827T130000",
+    "endDate": "20260827T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Statistička teorija telekomunikacija",
+    "startDate": "20260917T130000",
+    "endDate": "20260917T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Sekvencijalni sklopovi",
+    "startDate": "20260123T103000",
+    "endDate": "20260123T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Sekvencijalni sklopovi",
+    "startDate": "20260213T103000",
+    "endDate": "20260213T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Sekvencijalni sklopovi",
+    "startDate": "20260619T103000",
+    "endDate": "20260619T103010",
+    "place": "GIM"
+  },
+  {
+    "event": "Sekvencijalni sklopovi",
+    "startDate": "20260703T103000",
+    "endDate": "20260703T103010",
+    "place": "GIM"
+  },
+  {
+    "event": "Sekvencijalni sklopovi",
+    "startDate": "20260821T103000",
+    "endDate": "20260821T103010",
+    "place": "GIM"
+  },
+  {
+    "event": "Sekvencijalni sklopovi",
+    "startDate": "20260911T103000",
+    "endDate": "20260911T103010",
+    "place": "GIM"
+  },
+  {
+    "event": "Modeliranje i analiza podataka",
+    "startDate": "20260127T103000",
+    "endDate": "20260127T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Modeliranje i analiza podataka",
+    "startDate": "20260217T103000",
+    "endDate": "20260217T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Modeliranje i analiza podataka",
+    "startDate": "20260623T103000",
+    "endDate": "20260623T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Modeliranje i analiza podataka",
+    "startDate": "20260714T103000",
+    "endDate": "20260714T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Modeliranje i analiza podataka",
+    "startDate": "20260825T103000",
+    "endDate": "20260825T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Modeliranje i analiza podataka",
+    "startDate": "20260915T103000",
+    "endDate": "20260915T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Primjena inženjerskih softverskih paketa",
+    "startDate": "20260119T130000",
+    "endDate": "20260119T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Primjena inženjerskih softverskih paketa",
+    "startDate": "20260209T130000",
+    "endDate": "20260209T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Primjena inženjerskih softverskih paketa",
+    "startDate": "20260615T130000",
+    "endDate": "20260615T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Primjena inženjerskih softverskih paketa",
+    "startDate": "20260706T130000",
+    "endDate": "20260706T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Primjena inženjerskih softverskih paketa",
+    "startDate": "20260817T130000",
+    "endDate": "20260817T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Primjena inženjerskih softverskih paketa",
+    "startDate": "20260907T130000",
+    "endDate": "20260907T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Uvod u računarske algoritme",
+    "startDate": "20260121T103000",
+    "endDate": "20260121T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Uvod u računarske algoritme",
+    "startDate": "20260211T103000",
+    "endDate": "20260211T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Uvod u računarske algoritme",
+    "startDate": "20260617T103000",
+    "endDate": "20260617T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Uvod u računarske algoritme",
+    "startDate": "20260708T103000",
+    "endDate": "20260708T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Uvod u računarske algoritme",
+    "startDate": "20260819T103000",
+    "endDate": "20260819T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Uvod u računarske algoritme",
+    "startDate": "20260909T103000",
+    "endDate": "20260909T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Arhitektura računara",
+    "startDate": "20260127T130000",
+    "endDate": "20260127T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Arhitektura računara",
+    "startDate": "20260217T130000",
+    "endDate": "20260217T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Arhitektura računara",
+    "startDate": "20260623T130000",
+    "endDate": "20260623T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Arhitektura računara",
+    "startDate": "20260714T130000",
+    "endDate": "20260714T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Arhitektura računara",
+    "startDate": "20260825T130000",
+    "endDate": "20260825T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Arhitektura računara",
+    "startDate": "20260915T130000",
+    "endDate": "20260915T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Strukture podataka",
+    "startDate": "20260123T130000",
+    "endDate": "20260123T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Strukture podataka",
+    "startDate": "20260213T130000",
+    "endDate": "20260213T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Strukture podataka",
+    "startDate": "20260619T130000",
+    "endDate": "20260619T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Strukture podataka",
+    "startDate": "20260703T130000",
+    "endDate": "20260703T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Strukture podataka",
+    "startDate": "20260821T130000",
+    "endDate": "20260821T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Strukture podataka",
+    "startDate": "20260911T130000",
+    "endDate": "20260911T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Linearni dinamički sistemi i signali",
+    "startDate": "20260127T130000",
+    "endDate": "20260127T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Linearni dinamički sistemi i signali",
+    "startDate": "20260217T130000",
+    "endDate": "20260217T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Linearni dinamički sistemi i signali",
+    "startDate": "20260623T130000",
+    "endDate": "20260623T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Linearni dinamički sistemi i signali",
+    "startDate": "20260714T130000",
+    "endDate": "20260714T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Linearni dinamički sistemi i signali",
+    "startDate": "20260825T130000",
+    "endDate": "20260825T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Linearni dinamički sistemi i signali",
+    "startDate": "20260915T130000",
+    "endDate": "20260915T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Mjerenja u automatici i robotici",
+    "startDate": "20260129T130000",
+    "endDate": "20260129T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Mjerenja u automatici i robotici",
+    "startDate": "20260219T130000",
+    "endDate": "20260219T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Mjerenja u automatici i robotici",
+    "startDate": "20260625T130000",
+    "endDate": "20260625T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Mjerenja u automatici i robotici",
+    "startDate": "20260716T130000",
+    "endDate": "20260716T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Mjerenja u automatici i robotici",
+    "startDate": "20260827T130000",
+    "endDate": "20260827T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Mjerenja u automatici i robotici",
+    "startDate": "20260917T130000",
+    "endDate": "20260917T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Projektovanje logičkih sistema",
+    "startDate": "20260119T103000",
+    "endDate": "20260119T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Projektovanje logičkih sistema",
+    "startDate": "20260209T103000",
+    "endDate": "20260209T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Projektovanje logičkih sistema",
+    "startDate": "20260615T103000",
+    "endDate": "20260615T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Projektovanje logičkih sistema",
+    "startDate": "20260706T103000",
+    "endDate": "20260706T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Projektovanje logičkih sistema",
+    "startDate": "20260817T103000",
+    "endDate": "20260817T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Projektovanje logičkih sistema",
+    "startDate": "20260907T103000",
+    "endDate": "20260907T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Električne mašine II",
+    "startDate": "20260123T103000",
+    "endDate": "20260123T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Električne mašine II",
+    "startDate": "20260213T103000",
+    "endDate": "20260213T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Električne mašine II",
+    "startDate": "20260619T103000",
+    "endDate": "20260619T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Električne mašine II",
+    "startDate": "20260703T103000",
+    "endDate": "20260703T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Električne mašine II",
+    "startDate": "20260821T103000",
+    "endDate": "20260821T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Električne mašine II",
+    "startDate": "20260911T103000",
+    "endDate": "20260911T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Linearni sistemi automatskog upravljanja I",
+    "startDate": "20260119T130000",
+    "endDate": "20260119T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Linearni sistemi automatskog upravljanja I",
+    "startDate": "20260209T130000",
+    "endDate": "20260209T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Linearni sistemi automatskog upravljanja I",
+    "startDate": "20260615T130000",
+    "endDate": "20260615T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Linearni sistemi automatskog upravljanja I",
+    "startDate": "20260706T130000",
+    "endDate": "20260706T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Linearni sistemi automatskog upravljanja I",
+    "startDate": "20260817T130000",
+    "endDate": "20260817T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Linearni sistemi automatskog upravljanja I",
+    "startDate": "20260907T130000",
+    "endDate": "20260907T130010",
+    "place": "A2"
+  },
+  {
+    "event": "Energetska elektronika",
+    "startDate": "20260121T080000",
+    "endDate": "20260121T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Energetska elektronika",
+    "startDate": "20260211T080000",
+    "endDate": "20260211T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Energetska elektronika",
+    "startDate": "20260617T080000",
+    "endDate": "20260617T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Energetska elektronika",
+    "startDate": "20260708T080000",
+    "endDate": "20260708T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Energetska elektronika",
+    "startDate": "20260819T080000",
+    "endDate": "20260819T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Energetska elektronika",
+    "startDate": "20260909T080000",
+    "endDate": "20260909T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Električne mreže",
+    "startDate": "20260129T103000",
+    "endDate": "20260129T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Električne mreže",
+    "startDate": "20260219T103000",
+    "endDate": "20260219T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Električne mreže",
+    "startDate": "20260625T103000",
+    "endDate": "20260625T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Električne mreže",
+    "startDate": "20260716T103000",
+    "endDate": "20260716T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Električne mreže",
+    "startDate": "20260827T103000",
+    "endDate": "20260827T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Električne mreže",
+    "startDate": "20260917T103000",
+    "endDate": "20260917T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Optimizacione metode u elektrotehnici",
+    "startDate": "20260129T103000",
+    "endDate": "20260129T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Optimizacione metode u elektrotehnici",
+    "startDate": "20260219T103000",
+    "endDate": "20260219T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Optimizacione metode u elektrotehnici",
+    "startDate": "20260625T103000",
+    "endDate": "20260625T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Optimizacione metode u elektrotehnici",
+    "startDate": "20260716T103000",
+    "endDate": "20260716T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Optimizacione metode u elektrotehnici",
+    "startDate": "20260827T103000",
+    "endDate": "20260827T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Optimizacione metode u elektrotehnici",
+    "startDate": "20260917T103000",
+    "endDate": "20260917T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Modeliranje sistema",
+    "startDate": "20260123T103000",
+    "endDate": "20260123T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Modeliranje sistema",
+    "startDate": "20260213T103000",
+    "endDate": "20260213T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Modeliranje sistema",
+    "startDate": "20260619T103000",
+    "endDate": "20260619T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Modeliranje sistema",
+    "startDate": "20260703T103000",
+    "endDate": "20260703T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Modeliranje sistema",
+    "startDate": "20260821T103000",
+    "endDate": "20260821T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Modeliranje sistema",
+    "startDate": "20260911T103000",
+    "endDate": "20260911T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Inteligentni sistemi u elektroenergetici",
+    "startDate": "20260127T103000",
+    "endDate": "20260127T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Inteligentni sistemi u elektroenergetici",
+    "startDate": "20260217T103000",
+    "endDate": "20260217T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Inteligentni sistemi u elektroenergetici",
+    "startDate": "20260623T103000",
+    "endDate": "20260623T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Inteligentni sistemi u elektroenergetici",
+    "startDate": "20260714T103000",
+    "endDate": "20260714T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Inteligentni sistemi u elektroenergetici",
+    "startDate": "20260825T103000",
+    "endDate": "20260825T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Inteligentni sistemi u elektroenergetici",
+    "startDate": "20260915T103000",
+    "endDate": "20260915T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Osnovi telekomunikacija",
+    "startDate": "20260121T080000",
+    "endDate": "20260121T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Osnovi telekomunikacija",
+    "startDate": "20260211T080000",
+    "endDate": "20260211T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Osnovi telekomunikacija",
+    "startDate": "20260617T080000",
+    "endDate": "20260617T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Osnovi telekomunikacija",
+    "startDate": "20260708T080000",
+    "endDate": "20260708T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Osnovi telekomunikacija",
+    "startDate": "20260819T080000",
+    "endDate": "20260819T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Osnovi telekomunikacija",
+    "startDate": "20260909T080000",
+    "endDate": "20260909T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Teorija informacija i kodovanje",
+    "startDate": "20260119T103000",
+    "endDate": "20260119T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Teorija informacija i kodovanje",
+    "startDate": "20260209T103000",
+    "endDate": "20260209T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Teorija informacija i kodovanje",
+    "startDate": "20260615T103000",
+    "endDate": "20260615T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Teorija informacija i kodovanje",
+    "startDate": "20260706T103000",
+    "endDate": "20260706T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Teorija informacija i kodovanje",
+    "startDate": "20260817T103000",
+    "endDate": "20260817T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Teorija informacija i kodovanje",
+    "startDate": "20260907T103000",
+    "endDate": "20260907T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Telekomunikacioni protokoli",
+    "startDate": "20260127T130000",
+    "endDate": "20260127T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Telekomunikacioni protokoli",
+    "startDate": "20260217T130000",
+    "endDate": "20260217T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Telekomunikacioni protokoli",
+    "startDate": "20260623T130000",
+    "endDate": "20260623T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Telekomunikacioni protokoli",
+    "startDate": "20260714T130000",
+    "endDate": "20260714T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Telekomunikacioni protokoli",
+    "startDate": "20260825T130000",
+    "endDate": "20260825T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Telekomunikacioni protokoli",
+    "startDate": "20260915T130000",
+    "endDate": "20260915T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Obrada digitalnih signala",
+    "startDate": "20260130T130000",
+    "endDate": "20260130T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Obrada digitalnih signala",
+    "startDate": "20260220T130000",
+    "endDate": "20260220T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Obrada digitalnih signala",
+    "startDate": "20260626T130000",
+    "endDate": "20260626T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Obrada digitalnih signala",
+    "startDate": "20260717T130000",
+    "endDate": "20260717T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Obrada digitalnih signala",
+    "startDate": "20260828T130000",
+    "endDate": "20260828T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Obrada digitalnih signala",
+    "startDate": "20260918T130000",
+    "endDate": "20260918T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Operativni sistemi",
+    "startDate": "20260130T150000",
+    "endDate": "20260130T150010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Operativni sistemi",
+    "startDate": "20260220T150000",
+    "endDate": "20260220T150010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Operativni sistemi",
+    "startDate": "20260626T150000",
+    "endDate": "20260626T150010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Operativni sistemi",
+    "startDate": "20260717T150000",
+    "endDate": "20260717T150010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Operativni sistemi",
+    "startDate": "20260828T150000",
+    "endDate": "20260828T150010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Operativni sistemi",
+    "startDate": "20260918T150000",
+    "endDate": "20260918T150010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Baze podataka",
+    "startDate": "20260129T103000",
+    "endDate": "20260129T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Baze podataka",
+    "startDate": "20260219T103000",
+    "endDate": "20260219T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Baze podataka",
+    "startDate": "20260625T103000",
+    "endDate": "20260625T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Baze podataka",
+    "startDate": "20260716T103000",
+    "endDate": "20260716T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Baze podataka",
+    "startDate": "20260827T103000",
+    "endDate": "20260827T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Baze podataka",
+    "startDate": "20260917T103000",
+    "endDate": "20260917T103010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Funkcionalno programiranje",
+    "startDate": "20260127T170000",
+    "endDate": "20260127T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Funkcionalno programiranje",
+    "startDate": "20260217T170000",
+    "endDate": "20260217T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Funkcionalno programiranje",
+    "startDate": "20260623T170000",
+    "endDate": "20260623T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Funkcionalno programiranje",
+    "startDate": "20260714T170000",
+    "endDate": "20260714T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Funkcionalno programiranje",
+    "startDate": "20260825T170000",
+    "endDate": "20260825T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Funkcionalno programiranje",
+    "startDate": "20260915T170000",
+    "endDate": "20260915T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Stohastički sistemi i estimacije",
+    "startDate": "20260121T130000",
+    "endDate": "20260121T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Stohastički sistemi i estimacije",
+    "startDate": "20260211T130000",
+    "endDate": "20260211T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Stohastički sistemi i estimacije",
+    "startDate": "20260617T130000",
+    "endDate": "20260617T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Stohastički sistemi i estimacije",
+    "startDate": "20260708T130000",
+    "endDate": "20260708T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Stohastički sistemi i estimacije",
+    "startDate": "20260819T130000",
+    "endDate": "20260819T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Stohastički sistemi i estimacije",
+    "startDate": "20260909T130000",
+    "endDate": "20260909T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Instrumentacija",
+    "startDate": "20260127T103000",
+    "endDate": "20260127T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Instrumentacija",
+    "startDate": "20260217T103000",
+    "endDate": "20260217T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Instrumentacija",
+    "startDate": "20260623T103000",
+    "endDate": "20260623T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Instrumentacija",
+    "startDate": "20260714T103000",
+    "endDate": "20260714T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Instrumentacija",
+    "startDate": "20260825T103000",
+    "endDate": "20260825T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Instrumentacija",
+    "startDate": "20260915T103000",
+    "endDate": "20260915T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Modeliranje i simulacija",
+    "startDate": "20260123T103000",
+    "endDate": "20260123T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Modeliranje i simulacija",
+    "startDate": "20260213T103000",
+    "endDate": "20260213T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Modeliranje i simulacija",
+    "startDate": "20260619T103000",
+    "endDate": "20260619T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Modeliranje i simulacija",
+    "startDate": "20260703T103000",
+    "endDate": "20260703T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Modeliranje i simulacija",
+    "startDate": "20260821T103000",
+    "endDate": "20260821T103010",
+    "place": "A2"
+  },
+  {
+    "event": "Modeliranje i simulacija",
+    "startDate": "20260911T103000",
+    "endDate": "20260911T103010",
+    "place": "A2"
+  },
+  {
+    "event": "III godina Električna postrojenja",
+    "startDate": "20260122T130000",
+    "endDate": "20260122T130010",
+    "place": "G19"
+  },
+  {
+    "event": "III godina Električna postrojenja",
+    "startDate": "20260212T130000",
+    "endDate": "20260212T130010",
+    "place": "G19"
+  },
+  {
+    "event": "III godina Električna postrojenja",
+    "startDate": "20260618T130000",
+    "endDate": "20260618T130010",
+    "place": "G19"
+  },
+  {
+    "event": "III godina Električna postrojenja",
+    "startDate": "20260709T130000",
+    "endDate": "20260709T130010",
+    "place": "G19"
+  },
+  {
+    "event": "III godina Električna postrojenja",
+    "startDate": "20260820T130000",
+    "endDate": "20260820T130010",
+    "place": "G19"
+  },
+  {
+    "event": "III godina Električna postrojenja",
+    "startDate": "20260910T130000",
+    "endDate": "20260910T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Elektromagnetna kompatibilnost",
+    "startDate": "20260126T130000",
+    "endDate": "20260126T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Elektromagnetna kompatibilnost",
+    "startDate": "20260216T130000",
+    "endDate": "20260216T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Elektromagnetna kompatibilnost",
+    "startDate": "20260622T130000",
+    "endDate": "20260622T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Elektromagnetna kompatibilnost",
+    "startDate": "20260713T130000",
+    "endDate": "20260713T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Elektromagnetna kompatibilnost",
+    "startDate": "20260824T130000",
+    "endDate": "20260824T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Elektromagnetna kompatibilnost",
+    "startDate": "20260914T130000",
+    "endDate": "20260914T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Dijagnostika u elektroenergetici",
+    "startDate": "20260130T130000",
+    "endDate": "20260130T130010",
+    "place": "G Lab EM"
+  },
+  {
+    "event": "Dijagnostika u elektroenergetici",
+    "startDate": "20260220T130000",
+    "endDate": "20260220T130010",
+    "place": "G Lab EM"
+  },
+  {
+    "event": "Dijagnostika u elektroenergetici",
+    "startDate": "20260626T130000",
+    "endDate": "20260626T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Dijagnostika u elektroenergetici",
+    "startDate": "20260717T130000",
+    "endDate": "20260717T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Dijagnostika u elektroenergetici",
+    "startDate": "20260828T130000",
+    "endDate": "20260828T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Dijagnostika u elektroenergetici",
+    "startDate": "20260918T130000",
+    "endDate": "20260918T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Operaciona istraživanja",
+    "startDate": "20260128T080000",
+    "endDate": "20260128T080010",
+    "place": "G Lab EM"
+  },
+  {
+    "event": "Operaciona istraživanja",
+    "startDate": "20260218T080000",
+    "endDate": "20260218T080010",
+    "place": "G Lab EM"
+  },
+  {
+    "event": "Operaciona istraživanja",
+    "startDate": "20260624T130000",
+    "endDate": "20260624T130010",
+    "place": "G"
+  },
+  {
+    "event": "Operaciona istraživanja",
+    "startDate": "20260715T130000",
+    "endDate": "20260715T130010",
+    "place": "G"
+  },
+  {
+    "event": "Operaciona istraživanja",
+    "startDate": "20260826T130000",
+    "endDate": "20260826T130010",
+    "place": "G"
+  },
+  {
+    "event": "Operaciona istraživanja",
+    "startDate": "20260916T130000",
+    "endDate": "20260916T130010",
+    "place": "G"
+  },
+  {
+    "event": "Elektroenergetske stanice",
+    "startDate": "20260128T130000",
+    "endDate": "20260128T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Elektroenergetske stanice",
+    "startDate": "20260218T130000",
+    "endDate": "20260218T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Elektroenergetske stanice",
+    "startDate": "20260624T130000",
+    "endDate": "20260624T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Elektroenergetske stanice",
+    "startDate": "20260715T130000",
+    "endDate": "20260715T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Elektroenergetske stanice",
+    "startDate": "20260826T130000",
+    "endDate": "20260826T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Elektroenergetske stanice",
+    "startDate": "20260916T130000",
+    "endDate": "20260916T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Simulacija sistema",
+    "startDate": "20260122T080000",
+    "endDate": "20260122T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Simulacija sistema",
+    "startDate": "20260212T080000",
+    "endDate": "20260212T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Simulacija sistema",
+    "startDate": "20260618T080000",
+    "endDate": "20260618T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Simulacija sistema",
+    "startDate": "20260709T080000",
+    "endDate": "20260709T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Simulacija sistema",
+    "startDate": "20260820T080000",
+    "endDate": "20260820T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Simulacija sistema",
+    "startDate": "20260910T080000",
+    "endDate": "20260910T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Tehnika visokih napona",
+    "startDate": "20260120T150000",
+    "endDate": "20260120T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Tehnika visokih napona",
+    "startDate": "20260210T150000",
+    "endDate": "20260210T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Tehnika visokih napona",
+    "startDate": "20260616T150000",
+    "endDate": "20260616T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Tehnika visokih napona",
+    "startDate": "20260707T150000",
+    "endDate": "20260707T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Tehnika visokih napona",
+    "startDate": "20260818T150000",
+    "endDate": "20260818T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Tehnika visokih napona",
+    "startDate": "20260908T150000",
+    "endDate": "20260908T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Relejna tehnika",
+    "startDate": "20260130T103000",
+    "endDate": "20260130T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Relejna tehnika",
+    "startDate": "20260220T103000",
+    "endDate": "20260220T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Relejna tehnika",
+    "startDate": "20260626T103000",
+    "endDate": "20260626T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Relejna tehnika",
+    "startDate": "20260717T103000",
+    "endDate": "20260717T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Relejna tehnika",
+    "startDate": "20260828T103000",
+    "endDate": "20260828T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Relejna tehnika",
+    "startDate": "20260918T103000",
+    "endDate": "20260918T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Pametne energetske mreže",
+    "startDate": "20260126T150000",
+    "endDate": "20260126T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Pametne energetske mreže",
+    "startDate": "20260216T150000",
+    "endDate": "20260216T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Pametne energetske mreže",
+    "startDate": "20260622T150000",
+    "endDate": "20260622T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Pametne energetske mreže",
+    "startDate": "20260713T150000",
+    "endDate": "20260713T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Pametne energetske mreže",
+    "startDate": "20260824T150000",
+    "endDate": "20260824T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Pametne energetske mreže",
+    "startDate": "20260914T150000",
+    "endDate": "20260914T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Optičke telekomunikacije",
+    "startDate": "20260122T130000",
+    "endDate": "20260122T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Optičke telekomunikacije",
+    "startDate": "20260212T130000",
+    "endDate": "20260212T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Optičke telekomunikacije",
+    "startDate": "20260618T130000",
+    "endDate": "20260618T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Optičke telekomunikacije",
+    "startDate": "20260709T130000",
+    "endDate": "20260709T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Optičke telekomunikacije",
+    "startDate": "20260820T130000",
+    "endDate": "20260820T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Optičke telekomunikacije",
+    "startDate": "20260910T130000",
+    "endDate": "20260910T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Digitalne telekomunikacije",
+    "startDate": "20260123T150000",
+    "endDate": "20260123T150010",
+    "place": "Stelekt Lab"
+  },
+  {
+    "event": "Digitalne telekomunikacije",
+    "startDate": "20260213T150000",
+    "endDate": "20260213T150010",
+    "place": "Stelekt Lab"
+  },
+  {
+    "event": "Digitalne telekomunikacije",
+    "startDate": "20260619T150000",
+    "endDate": "20260619T150010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Digitalne telekomunikacije",
+    "startDate": "20260703T150000",
+    "endDate": "20260703T150010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Digitalne telekomunikacije",
+    "startDate": "20260821T150000",
+    "endDate": "20260821T150010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Digitalne telekomunikacije",
+    "startDate": "20260911T150000",
+    "endDate": "20260911T150010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Telekomunikacione mreže",
+    "startDate": "20260126T103000",
+    "endDate": "20260126T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Telekomunikacione mreže",
+    "startDate": "20260216T103000",
+    "endDate": "20260216T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Telekomunikacione mreže",
+    "startDate": "20260622T103000",
+    "endDate": "20260622T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Telekomunikacione mreže",
+    "startDate": "20260713T103000",
+    "endDate": "20260713T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Telekomunikacione mreže",
+    "startDate": "20260824T103000",
+    "endDate": "20260824T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Telekomunikacione mreže",
+    "startDate": "20260914T103000",
+    "endDate": "20260914T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Radijski telekomunikacijski sistemi",
+    "startDate": "20260120T130000",
+    "endDate": "20260120T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Radijski telekomunikacijski sistemi",
+    "startDate": "20260210T130000",
+    "endDate": "20260210T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Radijski telekomunikacijski sistemi",
+    "startDate": "20260616T130000",
+    "endDate": "20260616T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Radijski telekomunikacijski sistemi",
+    "startDate": "20260707T130000",
+    "endDate": "20260707T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Radijski telekomunikacijski sistemi",
+    "startDate": "20260826T130000",
+    "endDate": "20260826T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Radijski telekomunikacijski sistemi",
+    "startDate": "20260916T130000",
+    "endDate": "20260916T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Računarska grafika",
+    "startDate": "20260120T130000",
+    "endDate": "20260120T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Računarska grafika",
+    "startDate": "20260210T130000",
+    "endDate": "20260210T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Računarska grafika",
+    "startDate": "20260616T130000",
+    "endDate": "20260616T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Računarska grafika",
+    "startDate": "20260707T130000",
+    "endDate": "20260707T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Računarska grafika",
+    "startDate": "20260818T130000",
+    "endDate": "20260818T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Računarska grafika",
+    "startDate": "20260908T130000",
+    "endDate": "20260908T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Razvoj softvera",
+    "startDate": "20260128T130000",
+    "endDate": "20260128T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Razvoj softvera",
+    "startDate": "20260218T130000",
+    "endDate": "20260218T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Razvoj softvera",
+    "startDate": "20260624T130000",
+    "endDate": "20260624T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Razvoj softvera",
+    "startDate": "20260715T130000",
+    "endDate": "20260715T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Razvoj softvera",
+    "startDate": "20260826T130000",
+    "endDate": "20260826T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Razvoj softvera",
+    "startDate": "20260916T130000",
+    "endDate": "20260916T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Računarske mreže",
+    "startDate": "20260126T170000",
+    "endDate": "20260126T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Računarske mreže",
+    "startDate": "20260216T170000",
+    "endDate": "20260216T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Računarske mreže",
+    "startDate": "20260622T170000",
+    "endDate": "20260622T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Računarske mreže",
+    "startDate": "20260713T170000",
+    "endDate": "20260713T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Računarske mreže",
+    "startDate": "20260824T170000",
+    "endDate": "20260824T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Računarske mreže",
+    "startDate": "20260914T170000",
+    "endDate": "20260914T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Linearni sistemi automatskog upravljanja II",
+    "startDate": "20260122T130000",
+    "endDate": "20260122T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Linearni sistemi automatskog upravljanja II",
+    "startDate": "20260212T130000",
+    "endDate": "20260212T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Linearni sistemi automatskog upravljanja II",
+    "startDate": "20260618T130000",
+    "endDate": "20260618T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Linearni sistemi automatskog upravljanja II",
+    "startDate": "20260709T130000",
+    "endDate": "20260709T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Linearni sistemi automatskog upravljanja II",
+    "startDate": "20260820T130000",
+    "endDate": "20260820T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Linearni sistemi automatskog upravljanja II",
+    "startDate": "20260910T130000",
+    "endDate": "20260910T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Nelinearni sistemi upravljanja",
+    "startDate": "20260130T103000",
+    "endDate": "20260130T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Nelinearni sistemi upravljanja",
+    "startDate": "20260220T103000",
+    "endDate": "20260220T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Nelinearni sistemi upravljanja",
+    "startDate": "20260626T103000",
+    "endDate": "20260626T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Nelinearni sistemi upravljanja",
+    "startDate": "20260717T103000",
+    "endDate": "20260717T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Nelinearni sistemi upravljanja",
+    "startDate": "20260828T103000",
+    "endDate": "20260828T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Nelinearni sistemi upravljanja",
+    "startDate": "20260918T103000",
+    "endDate": "20260918T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Aktuatori",
+    "startDate": "20260128T130000",
+    "endDate": "20260128T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Aktuatori",
+    "startDate": "20260218T130000",
+    "endDate": "20260218T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Aktuatori",
+    "startDate": "20260624T130000",
+    "endDate": "20260624T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Aktuatori",
+    "startDate": "20260715T130000",
+    "endDate": "20260715T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Aktuatori",
+    "startDate": "20260826T130000",
+    "endDate": "20260826T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Aktuatori",
+    "startDate": "20260916T130000",
+    "endDate": "20260916T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Projektovanje mikroprocesorskih sistema",
+    "startDate": "20260120T150000",
+    "endDate": "20260120T150010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Projektovanje mikroprocesorskih sistema",
+    "startDate": "20260210T150000",
+    "endDate": "20260210T150010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Projektovanje mikroprocesorskih sistema",
+    "startDate": "20260616T150000",
+    "endDate": "20260616T150010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Projektovanje mikroprocesorskih sistema",
+    "startDate": "20260707T150000",
+    "endDate": "20260707T150010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Projektovanje mikroprocesorskih sistema",
+    "startDate": "20260818T150000",
+    "endDate": "20260818T150010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Projektovanje mikroprocesorskih sistema",
+    "startDate": "20260908T150000",
+    "endDate": "20260908T150010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Elektromotorni pogoni",
+    "startDate": "20260120T130000",
+    "endDate": "20260120T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Elektromotorni pogoni",
+    "startDate": "20260210T130000",
+    "endDate": "20260210T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Elektromotorni pogoni",
+    "startDate": "20260616T130000",
+    "endDate": "20260616T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Elektromotorni pogoni",
+    "startDate": "20260707T130000",
+    "endDate": "20260707T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Elektromotorni pogoni",
+    "startDate": "20260818T130000",
+    "endDate": "20260818T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Elektromotorni pogoni",
+    "startDate": "20260908T130000",
+    "endDate": "20260908T130010",
+    "place": "GMM"
+  },
+  {
+    "event": "Zaštitni i upravljački sistemi",
+    "startDate": "20260128T130000",
+    "endDate": "20260128T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Zaštitni i upravljački sistemi",
+    "startDate": "20260218T130000",
+    "endDate": "20260218T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Zaštitni i upravljački sistemi",
+    "startDate": "20260624T080000",
+    "endDate": "20260624T080010",
+    "place": "G"
+  },
+  {
+    "event": "Zaštitni i upravljački sistemi",
+    "startDate": "20260715T080000",
+    "endDate": "20260715T080010",
+    "place": "G"
+  },
+  {
+    "event": "Zaštitni i upravljački sistemi",
+    "startDate": "20260826T080000",
+    "endDate": "20260826T080010",
+    "place": "G"
+  },
+  {
+    "event": "Zaštitni i upravljački sistemi",
+    "startDate": "20260916T080000",
+    "endDate": "20260916T080010",
+    "place": "G"
+  },
+  {
+    "event": "Proizvodnja električne energije",
+    "startDate": "20260122T080000",
+    "endDate": "20260122T080010",
+    "place": "G19"
+  },
+  {
+    "event": "Proizvodnja električne energije",
+    "startDate": "20260212T080000",
+    "endDate": "20260212T080010",
+    "place": "G19"
+  },
+  {
+    "event": "Proizvodnja električne energije",
+    "startDate": "20260618T080000",
+    "endDate": "20260618T080010",
+    "place": "G19"
+  },
+  {
+    "event": "Proizvodnja električne energije",
+    "startDate": "20260709T080000",
+    "endDate": "20260709T080010",
+    "place": "G19"
+  },
+  {
+    "event": "Proizvodnja električne energije",
+    "startDate": "20260820T080000",
+    "endDate": "20260820T080010",
+    "place": "G19"
+  },
+  {
+    "event": "Proizvodnja električne energije",
+    "startDate": "20260910T080000",
+    "endDate": "20260910T080010",
+    "place": "G19"
+  },
+  {
+    "event": "Mehatronika",
+    "startDate": "20260126T150000",
+    "endDate": "20260126T150010",
+    "place": "G19"
+  },
+  {
+    "event": "Mehatronika",
+    "startDate": "20260216T150000",
+    "endDate": "20260216T150010",
+    "place": "G19"
+  },
+  {
+    "event": "Mehatronika",
+    "startDate": "20260622T150000",
+    "endDate": "20260622T150010",
+    "place": "G19"
+  },
+  {
+    "event": "Mehatronika",
+    "startDate": "20260713T150000",
+    "endDate": "20260713T150010",
+    "place": "G19"
+  },
+  {
+    "event": "Mehatronika",
+    "startDate": "20260824T150000",
+    "endDate": "20260824T150010",
+    "place": "G19"
+  },
+  {
+    "event": "Mehatronika",
+    "startDate": "20260914T150000",
+    "endDate": "20260914T150010",
+    "place": "G19"
+  },
+  {
+    "event": "Analiza elektroenergetskog sistema",
+    "startDate": "20260128T080000",
+    "endDate": "20260128T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Analiza elektroenergetskog sistema",
+    "startDate": "20260218T080000",
+    "endDate": "20260218T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Analiza elektroenergetskog sistema",
+    "startDate": "20260624T080000",
+    "endDate": "20260624T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Analiza elektroenergetskog sistema",
+    "startDate": "20260715T080000",
+    "endDate": "20260715T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Analiza elektroenergetskog sistema",
+    "startDate": "20260826T080000",
+    "endDate": "20260826T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Analiza elektroenergetskog sistema",
+    "startDate": "20260916T080000",
+    "endDate": "20260916T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Upravljanje elektroenergetskog sistema",
+    "startDate": "20260130T080000",
+    "endDate": "20260130T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Upravljanje elektroenergetskog sistema",
+    "startDate": "20260220T080000",
+    "endDate": "20260220T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Upravljanje elektroenergetskog sistema",
+    "startDate": "20260626T080000",
+    "endDate": "20260626T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Upravljanje elektroenergetskog sistema",
+    "startDate": "20260717T080000",
+    "endDate": "20260717T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Upravljanje elektroenergetskog sistema",
+    "startDate": "20260828T080000",
+    "endDate": "20260828T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Upravljanje elektroenergetskog sistema",
+    "startDate": "20260918T080000",
+    "endDate": "20260918T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Elektrane",
+    "startDate": "20260126T130000",
+    "endDate": "20260126T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Elektrane",
+    "startDate": "20260216T130000",
+    "endDate": "20260216T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Elektrane",
+    "startDate": "20260622T130000",
+    "endDate": "20260622T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Elektrane",
+    "startDate": "20260713T130000",
+    "endDate": "20260713T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Elektrane",
+    "startDate": "20260824T130000",
+    "endDate": "20260824T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Elektrane",
+    "startDate": "20260914T130000",
+    "endDate": "20260914T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Mobilne telekomunikacije",
+    "startDate": "20260122T080000",
+    "endDate": "20260122T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Mobilne telekomunikacije",
+    "startDate": "20260212T080000",
+    "endDate": "20260212T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Mobilne telekomunikacije",
+    "startDate": "20260618T080000",
+    "endDate": "20260618T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Mobilne telekomunikacije",
+    "startDate": "20260709T080000",
+    "endDate": "20260709T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Mobilne telekomunikacije",
+    "startDate": "20260826T080000",
+    "endDate": "20260826T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Mobilne telekomunikacije",
+    "startDate": "20260916T080000",
+    "endDate": "20260916T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Mikroprocesorski sistemi u telekomunikacijama",
+    "startDate": "20260120T080000",
+    "endDate": "20260120T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Mikroprocesorski sistemi u telekomunikacijama",
+    "startDate": "20260210T080000",
+    "endDate": "20260210T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Mikroprocesorski sistemi u telekomunikacijama",
+    "startDate": "20260616T080000",
+    "endDate": "20260616T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Mikroprocesorski sistemi u telekomunikacijama",
+    "startDate": "20260707T080000",
+    "endDate": "20260707T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Mikroprocesorski sistemi u telekomunikacijama",
+    "startDate": "20260818T080000",
+    "endDate": "20260818T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Mikroprocesorski sistemi u telekomunikacijama",
+    "startDate": "20260908T080000",
+    "endDate": "20260908T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Mjerenja u telekomunikacijama",
+    "startDate": "20260123T080000",
+    "endDate": "20260123T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Mjerenja u telekomunikacijama",
+    "startDate": "20260213T080000",
+    "endDate": "20260213T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Mjerenja u telekomunikacijama",
+    "startDate": "20260619T080000",
+    "endDate": "20260619T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Mjerenja u telekomunikacijama",
+    "startDate": "20260703T080000",
+    "endDate": "20260703T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Mjerenja u telekomunikacijama",
+    "startDate": "20260821T080000",
+    "endDate": "20260821T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Mjerenja u telekomunikacijama",
+    "startDate": "20260911T080000",
+    "endDate": "20260911T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Stelekt Windows programiranje",
+    "startDate": "20260122T103000",
+    "endDate": "20260122T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Stelekt Windows programiranje",
+    "startDate": "20260212T103000",
+    "endDate": "20260212T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Stelekt Windows programiranje",
+    "startDate": "20260618T103000",
+    "endDate": "20260618T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Stelekt Windows programiranje",
+    "startDate": "20260709T103000",
+    "endDate": "20260709T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Stelekt Windows programiranje",
+    "startDate": "20260820T103000",
+    "endDate": "20260820T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Stelekt Windows programiranje",
+    "startDate": "20260910T103000",
+    "endDate": "20260910T103010",
+    "place": "GMM"
+  },
+  {
+    "event": "Dizajn kompajlera",
+    "startDate": "20260120T080000",
+    "endDate": "20260120T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Dizajn kompajlera",
+    "startDate": "20260210T080000",
+    "endDate": "20260210T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Dizajn kompajlera",
+    "startDate": "20260616T080000",
+    "endDate": "20260616T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Dizajn kompajlera",
+    "startDate": "20260707T080000",
+    "endDate": "20260707T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Dizajn kompajlera",
+    "startDate": "20260818T080000",
+    "endDate": "20260818T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Dizajn kompajlera",
+    "startDate": "20260908T080000",
+    "endDate": "20260908T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Digitalni sistemi upravljanja i obrade signala I",
+    "startDate": "20260126T103000",
+    "endDate": "20260126T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Digitalni sistemi upravljanja i obrade signala I",
+    "startDate": "20260216T103000",
+    "endDate": "20260216T103010",
+    "place": "GA"
+  },
+  {
+    "event": "Digitalni sistemi upravljanja i obrade signala I",
+    "startDate": "20260622T103000",
+    "endDate": "20260622T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Digitalni sistemi upravljanja i obrade signala I",
+    "startDate": "20260713T103000",
+    "endDate": "20260713T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Digitalni sistemi upravljanja i obrade signala I",
+    "startDate": "20260824T103000",
+    "endDate": "20260824T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Digitalni sistemi upravljanja i obrade signala I",
+    "startDate": "20260914T103000",
+    "endDate": "20260914T103010",
+    "place": "G19"
+  },
+  {
+    "event": "Optimalno upravljanje",
+    "startDate": "20260128T080000",
+    "endDate": "20260128T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Optimalno upravljanje",
+    "startDate": "20260218T080000",
+    "endDate": "20260218T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Optimalno upravljanje",
+    "startDate": "20260624T080000",
+    "endDate": "20260624T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Optimalno upravljanje",
+    "startDate": "20260715T080000",
+    "endDate": "20260715T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Optimalno upravljanje",
+    "startDate": "20260826T080000",
+    "endDate": "20260826T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Optimalno upravljanje",
+    "startDate": "20260916T080000",
+    "endDate": "20260916T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Projektovanje sistema na čipu",
+    "startDate": "20260120T130000",
+    "endDate": "20260120T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Projektovanje sistema na čipu",
+    "startDate": "20260210T130000",
+    "endDate": "20260210T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Projektovanje sistema na čipu",
+    "startDate": "20260616T130000",
+    "endDate": "20260616T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Projektovanje sistema na čipu",
+    "startDate": "20260707T130000",
+    "endDate": "20260707T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Projektovanje sistema na čipu",
+    "startDate": "20260818T130000",
+    "endDate": "20260818T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Projektovanje sistema na čipu",
+    "startDate": "20260908T130000",
+    "endDate": "20260908T130010",
+    "place": "GA"
+  },
+  {
+    "event": "Distribuirani sistemi automatizacije",
+    "startDate": "20260122T150000",
+    "endDate": "20260122T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Distribuirani sistemi automatizacije",
+    "startDate": "20260212T150000",
+    "endDate": "20260212T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Distribuirani sistemi automatizacije",
+    "startDate": "20260618T150000",
+    "endDate": "20260618T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Distribuirani sistemi automatizacije",
+    "startDate": "20260709T150000",
+    "endDate": "20260709T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Distribuirani sistemi automatizacije",
+    "startDate": "20260820T150000",
+    "endDate": "20260820T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Distribuirani sistemi automatizacije",
+    "startDate": "20260910T150000",
+    "endDate": "20260910T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Obrada i analiza medicinskih slika",
+    "startDate": "20260130T080000",
+    "endDate": "20260130T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Obrada i analiza medicinskih slika",
+    "startDate": "20260220T080000",
+    "endDate": "20260220T080010",
+    "place": "A2"
+  },
+  {
+    "event": "Obrada i analiza medicinskih slika",
+    "startDate": "20260626T080000",
+    "endDate": "20260626T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Obrada i analiza medicinskih slika",
+    "startDate": "20260717T080000",
+    "endDate": "20260717T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Obrada i analiza medicinskih slika",
+    "startDate": "20260828T080000",
+    "endDate": "20260828T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Obrada i analiza medicinskih slika",
+    "startDate": "20260918T080000",
+    "endDate": "20260918T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Sistemi konverzije energije",
+    "startDate": "20260129T080000",
+    "endDate": "20260129T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Sistemi konverzije energije",
+    "startDate": "20260219T080000",
+    "endDate": "20260219T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Sistemi konverzije energije",
+    "startDate": "20260625T080000",
+    "endDate": "20260625T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Sistemi konverzije energije",
+    "startDate": "20260716T080000",
+    "endDate": "20260716T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Sistemi konverzije energije",
+    "startDate": "20260827T080000",
+    "endDate": "20260827T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Sistemi konverzije energije",
+    "startDate": "20260917T080000",
+    "endDate": "20260917T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Upravljanje elektromotornih pogona",
+    "startDate": "20260123T130000",
+    "endDate": "20260123T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Upravljanje elektromotornih pogona",
+    "startDate": "20260213T130000",
+    "endDate": "20260213T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Upravljanje elektromotornih pogona",
+    "startDate": "20260619T130000",
+    "endDate": "20260619T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Upravljanje elektromotornih pogona",
+    "startDate": "20260703T130000",
+    "endDate": "20260703T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Upravljanje elektromotornih pogona",
+    "startDate": "20260821T130000",
+    "endDate": "20260821T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Upravljanje elektromotornih pogona",
+    "startDate": "20260911T130000",
+    "endDate": "20260911T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Energetika i okolina",
+    "startDate": "20260119T080000",
+    "endDate": "20260119T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Energetika i okolina",
+    "startDate": "20260209T080000",
+    "endDate": "20260209T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Energetika i okolina",
+    "startDate": "20260615T080000",
+    "endDate": "20260615T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Energetika i okolina",
+    "startDate": "20260706T080000",
+    "endDate": "20260706T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Energetika i okolina",
+    "startDate": "20260817T080000",
+    "endDate": "20260817T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Energetika i okolina",
+    "startDate": "20260907T080000",
+    "endDate": "20260907T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Ekonomika i organizacija poslovanja u energetici",
+    "startDate": "20260127T080000",
+    "endDate": "20260127T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Ekonomika i organizacija poslovanja u energetici",
+    "startDate": "20260217T080000",
+    "endDate": "20260217T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Ekonomika i organizacija poslovanja u energetici",
+    "startDate": "20260623T080000",
+    "endDate": "20260623T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Ekonomika i organizacija poslovanja u energetici",
+    "startDate": "20260714T080000",
+    "endDate": "20260714T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Ekonomika i organizacija poslovanja u energetici",
+    "startDate": "20260825T080000",
+    "endDate": "20260825T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Ekonomika i organizacija poslovanja u energetici",
+    "startDate": "20260915T080000",
+    "endDate": "20260915T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Dinamika elektroenergetskog sistema",
+    "startDate": "20260123T080000",
+    "endDate": "20260123T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Dinamika elektroenergetskog sistema",
+    "startDate": "20260213T080000",
+    "endDate": "20260213T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Dinamika elektroenergetskog sistema",
+    "startDate": "20260619T080000",
+    "endDate": "20260619T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Dinamika elektroenergetskog sistema",
+    "startDate": "20260703T080000",
+    "endDate": "20260703T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Dinamika elektroenergetskog sistema",
+    "startDate": "20260821T080000",
+    "endDate": "20260821T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Dinamika elektroenergetskog sistema",
+    "startDate": "20260911T080000",
+    "endDate": "20260911T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Tržište električne energije",
+    "startDate": "20260129T080000",
+    "endDate": "20260129T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Tržište električne energije",
+    "startDate": "20260219T080000",
+    "endDate": "20260219T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Tržište električne energije",
+    "startDate": "20260625T080000",
+    "endDate": "20260625T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Tržište električne energije",
+    "startDate": "20260716T080000",
+    "endDate": "20260716T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Tržište električne energije",
+    "startDate": "20260827T080000",
+    "endDate": "20260827T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Tržište električne energije",
+    "startDate": "20260917T080000",
+    "endDate": "20260917T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Planiranje elektroenergetskih sistema",
+    "startDate": "20260127T080000",
+    "endDate": "20260127T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Planiranje elektroenergetskih sistema",
+    "startDate": "20260217T080000",
+    "endDate": "20260217T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Planiranje elektroenergetskih sistema",
+    "startDate": "20260623T080000",
+    "endDate": "20260623T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Planiranje elektroenergetskih sistema",
+    "startDate": "20260714T080000",
+    "endDate": "20260714T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Planiranje elektroenergetskih sistema",
+    "startDate": "20260825T080000",
+    "endDate": "20260825T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Planiranje elektroenergetskih sistema",
+    "startDate": "20260915T080000",
+    "endDate": "20260915T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Numerički postupci u projektovanju",
+    "startDate": "20260119T130000",
+    "endDate": "20260119T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Numerički postupci u projektovanju",
+    "startDate": "20260209T130000",
+    "endDate": "20260209T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Numerički postupci u projektovanju",
+    "startDate": "20260615T130000",
+    "endDate": "20260615T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Numerički postupci u projektovanju",
+    "startDate": "20260706T130000",
+    "endDate": "20260706T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Numerički postupci u projektovanju",
+    "startDate": "20260817T130000",
+    "endDate": "20260817T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Numerički postupci u projektovanju",
+    "startDate": "20260907T130000",
+    "endDate": "20260907T130010",
+    "place": "G19"
+  },
+  {
+    "event": "Projektovanje telekomunikacionih mreža",
+    "startDate": "20260119T080000",
+    "endDate": "20260119T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Projektovanje telekomunikacionih mreža",
+    "startDate": "20260209T080000",
+    "endDate": "20260209T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Projektovanje telekomunikacionih mreža",
+    "startDate": "20260615T080000",
+    "endDate": "20260615T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Projektovanje telekomunikacionih mreža",
+    "startDate": "20260706T080000",
+    "endDate": "20260706T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Projektovanje telekomunikacionih mreža",
+    "startDate": "20260817T080000",
+    "endDate": "20260817T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Projektovanje telekomunikacionih mreža",
+    "startDate": "20260907T080000",
+    "endDate": "20260907T080010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Multimedijski sistemi i komunikacije",
+    "startDate": "20260129T080000",
+    "endDate": "20260129T080010",
+    "place": "G19"
+  },
+  {
+    "event": "Multimedijski sistemi i komunikacije",
+    "startDate": "20260219T080000",
+    "endDate": "20260219T080010",
+    "place": "G19"
+  },
+  {
+    "event": "Multimedijski sistemi i komunikacije",
+    "startDate": "20260625T080000",
+    "endDate": "20260625T080010",
+    "place": "G19"
+  },
+  {
+    "event": "Multimedijski sistemi i komunikacije",
+    "startDate": "20260716T080000",
+    "endDate": "20260716T080010",
+    "place": "G19"
+  },
+  {
+    "event": "Multimedijski sistemi i komunikacije",
+    "startDate": "20260827T080000",
+    "endDate": "20260827T080010",
+    "place": "G19"
+  },
+  {
+    "event": "Multimedijski sistemi i komunikacije",
+    "startDate": "20260917T080000",
+    "endDate": "20260917T080010",
+    "place": "G19"
+  },
+  {
+    "event": "Sistemsko programiranje",
+    "startDate": "20260129T170000",
+    "endDate": "20260129T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Sistemsko programiranje",
+    "startDate": "20260219T170000",
+    "endDate": "20260219T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Sistemsko programiranje",
+    "startDate": "20260625T170000",
+    "endDate": "20260625T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Sistemsko programiranje",
+    "startDate": "20260716T170000",
+    "endDate": "20260716T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Sistemsko programiranje",
+    "startDate": "20260827T170000",
+    "endDate": "20260827T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Sistemsko programiranje",
+    "startDate": "20260917T170000",
+    "endDate": "20260917T170010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Razvoj web aplikacija",
+    "startDate": "20260121T130000",
+    "endDate": "20260121T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Razvoj web aplikacija",
+    "startDate": "20260211T130000",
+    "endDate": "20260211T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Razvoj web aplikacija",
+    "startDate": "20260617T130000",
+    "endDate": "20260617T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Razvoj web aplikacija",
+    "startDate": "20260708T130000",
+    "endDate": "20260708T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Razvoj web aplikacija",
+    "startDate": "20260819T130000",
+    "endDate": "20260819T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Razvoj web aplikacija",
+    "startDate": "20260909T130000",
+    "endDate": "20260909T130010",
+    "place": "Stelekt"
+  },
+  {
+    "event": "Digitalni sistemi upravljanja i obrade signala II",
+    "startDate": "20260129T080000",
+    "endDate": "20260129T080010",
+    "place": "G Lab EM"
+  },
+  {
+    "event": "Digitalni sistemi upravljanja i obrade signala II",
+    "startDate": "20260219T080000",
+    "endDate": "20260219T080010",
+    "place": "G Lab EM"
+  },
+  {
+    "event": "Digitalni sistemi upravljanja i obrade signala II",
+    "startDate": "20260625T080000",
+    "endDate": "20260625T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Digitalni sistemi upravljanja i obrade signala II",
+    "startDate": "20260716T080000",
+    "endDate": "20260716T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Digitalni sistemi upravljanja i obrade signala II",
+    "startDate": "20260827T080000",
+    "endDate": "20260827T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Digitalni sistemi upravljanja i obrade signala II",
+    "startDate": "20260917T080000",
+    "endDate": "20260917T080010",
+    "place": "GMM"
+  },
+  {
+    "event": "Robotika i mašinska vizija",
+    "startDate": "20260123T150000",
+    "endDate": "20260123T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Robotika i mašinska vizija",
+    "startDate": "20260213T150000",
+    "endDate": "20260213T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Robotika i mašinska vizija",
+    "startDate": "20260619T150000",
+    "endDate": "20260619T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Robotika i mašinska vizija",
+    "startDate": "20260703T150000",
+    "endDate": "20260703T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Robotika i mašinska vizija",
+    "startDate": "20260821T150000",
+    "endDate": "20260821T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Robotika i mašinska vizija",
+    "startDate": "20260911T150000",
+    "endDate": "20260911T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Upravljanje mehatroničkim sistemima",
+    "startDate": "20260127T080000",
+    "endDate": "20260127T080010",
+    "place": "G19"
+  },
+  {
+    "event": "Upravljanje mehatroničkim sistemima",
+    "startDate": "20260217T080000",
+    "endDate": "20260217T080010",
+    "place": "G19"
+  },
+  {
+    "event": "Upravljanje mehatroničkim sistemima",
+    "startDate": "20260623T080000",
+    "endDate": "20260623T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Upravljanje mehatroničkim sistemima",
+    "startDate": "20260714T080000",
+    "endDate": "20260714T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Upravljanje mehatroničkim sistemima",
+    "startDate": "20260825T080000",
+    "endDate": "20260825T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Upravljanje mehatroničkim sistemima",
+    "startDate": "20260915T080000",
+    "endDate": "20260915T080010",
+    "place": "GA"
+  },
+  {
+    "event": "Inteligentni sistemi",
+    "startDate": "20260121T150000",
+    "endDate": "20260121T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Inteligentni sistemi",
+    "startDate": "20260211T150000",
+    "endDate": "20260211T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Inteligentni sistemi",
+    "startDate": "20260617T150000",
+    "endDate": "20260617T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Inteligentni sistemi",
+    "startDate": "20260708T150000",
+    "endDate": "20260708T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Inteligentni sistemi",
+    "startDate": "20260819T150000",
+    "endDate": "20260819T150010",
+    "place": "GA"
+  },
+  {
+    "event": "Inteligentni sistemi",
+    "startDate": "20260909T150000",
+    "endDate": "20260909T150010",
+    "place": "GA"
+  }
+]

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Generator rasporeda ispita</title>
+</head>
+<body>
+    <div class="menu">
+        <h1>Odaberi predmete:</h1>
+            <div class="flexbox">
+            
+                <select id="nameDropdown">
+                    <option value="">Odaberi</option>
+                </select>
+
+                <button id="btnAdd">Dodaj</button>
+            </div>    
+                <p id="list"></p>   
+                
+                <button id="btnGenerate">Preuzmi</button>     
+            
+        
+    </div>
+    
+
+    <script type="module" src="js/index.js"></script>
+    <script type="module" src="js/icsGenerator.js"></script>
+
+</body>
+</html>

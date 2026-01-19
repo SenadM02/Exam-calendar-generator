@@ -1,0 +1,201 @@
+                                                                                   RASPORED ZAVRŠNIH ISPITA U AKADEMSKOJ 2025/26 GODINI I godina
+                                                                          Januarsko-februarski                                                            Junsko-julski                                     Septembarski
+                                                                  Završni ispit       Popravni završni ispit                               Završni ispit          Popravni završni ispit      Završni ispit        Popravni završni ispit
+  G Predmet                                                                                                    Sati         Sala                                                                                                            Sati        Sala
+                                                               Datum        Dan        Datum        Dan                                 Datum        Dan           Datum        Dan        Datum        Dan         Datum        Dan
+            Fizika I                                           27/01/26 utorak         17/02/26 utorak          8      A2, GA, FF009    23/06/26 utorak            14/07/26 utorak         25/08/26 utorak          15/09/26 utorak          8       A2, FF009
+            Osnovi računarstva                                 21/01/26 srijeda        11/02/26 srijeda         8        GA, GMM        17/06/26 srijeda           08/07/26 srijeda        19/08/26 srijeda         09/09/26 srijeda         8        GA, G19
+            Uvod u energetske sisteme                          29/01/26 četvrtak       19/02/26 četvrtak        8            A2         25/06/26 četvrtak          16/07/26 četvrtak       27/08/26 četvrtak        17/09/26 četvrtak        8           A2
+            Matematika I                                       23/01/26 petak          13/02/26 petak           8      A2, GA, FF009    19/06/26 petak             03/07/26 petak          21/08/26 petak           11/09/26 petak           8      A2, GA, FF009
+            Osnovi elektrotehnike I                            19/01/26 ponedjeljak    09/02/26 ponedjeljak     8      A2, GMM, FF009   15/06/26 ponedjeljak       06/07/26 ponedjeljak    17/08/26 ponedjeljak     07/09/26 ponedjeljak     8       A2, FF009
+I godina
+
+
+
+
+                                                                  Završni ispit       Popravni završni ispit                               Završni ispit          Popravni završni ispit      Završni ispit        Popravni završni ispit
+            Predmet                                                                                            Sati         Sala                                                                                                            Sati        Sala
+                                                               Datum        Dan        Datum        Dan                                 Datum       Datum          Datum       Datum       Datum       Datum        Datum       Datum
+            Osnovi programiranja                               22/01/26 četvrtak       12/02/26 četvrtak        8           GA          18/06/26 četvrtak          09/07/26 četvrtak       20/08/26 četvrtak        10/09/26 četvrtak        8        GA, GMM
+            Osnovi elektrotehnike II                           28/01/26 srijeda        18/02/26 srijeda         8        A2, FF009      24/06/26 srijeda           15/07/26 srijeda        26/08/26 srijeda         16/09/26 srijeda         8      A2, GA, FF009
+            Fizika II                                          20/01/26 utorak         10/02/26 utorak          8            A2         16/06/26 utorak            07/07/26 utorak         18/08/26 utorak          08/09/26 utorak          8      A2, GA, FF009
+            Matematika II                                      26/01/26 ponedjeljak    16/02/26 ponedjeljak     8       A2, GA, GMM     22/06/26 ponedjeljak       13/07/26 ponedjeljak    24/08/26 ponedjeljak     14/09/26 ponedjeljak     8      A2, GA, GMM
+            Tehnologije za podršku tehničkom pisanju           30/01/26 petak          20/02/26 petak           8          Stelekt      26/06/26 petak             17/07/26 petak          28/08/26 petak           18/09/26 petak           8           A2
+
+
+            Aprilski ispitni rok održaće se od 01.04. do 15.04.2026. godine a tačan termin održavanja svakog od završnih ispita će biti objavljen nakon što se obave prijave studenata za aprilski rok.
+
+
+                                                                                   RASPORED ZAVRŠNIH ISPITA U AKADEMSKOJ 2025/26 GODINI II godina
+                                                                          Januarsko-februarski                                                            Junsko-julski                                     Septembarski
+                                                                  Završni ispit       Popravni završni ispit                               Završni ispit          Popravni završni ispit      Završni ispit        Popravni završni ispit
+  G Predmet                                                                                                    Sati         Sala                                                                                                            Sati        Sala
+                                                               Datum        Dan        Datum        Dan                                 Datum        Dan           Datum        Dan        Datum        Dan         Datum        Dan
+            Osnovi elektronike                                 20/01/26 utorak         10/02/26 utorak         10:30         A2         16/06/26 utorak            07/07/26 utorak         18/08/26 utorak          08/09/26 utorak         10:30        A2
+            Mjerenja u elektrotehnici                          30/01/26 petak          20/02/26 petak           13          GA          26/06/26 petak             17/07/26 petak          28/08/26 petak           18/09/26 petak           13         GMM
+            Matematika III                                     28/01/26 srijeda        18/02/26 srijeda        10:30    A2, GA, GMM     24/06/26 srijeda           15/07/26 srijeda        26/08/26 srijeda         16/09/26 srijeda        10:30   A2, GA, FF009
+            Teorija električnih kola                           22/01/26 četvrtak       12/02/26 četvrtak       10:30   A2, GA, FF009    18/06/26 četvrtak          09/07/26 četvrtak       20/08/26 četvrtak        10/09/26 četvrtak       10:30        A2
+            Objektno-orijentisano programiranje                26/01/26 ponedjeljak    16/02/26 ponedjeljak     13           A2         22/06/26 ponedjeljak       13/07/26 ponedjeljak    24/08/26 ponedjeljak     14/09/26 ponedjeljak     13          A2
+            Matrične metode u elektrotehnici (EEMS)            20/01/26 utorak         10/02/26 utorak         10:30        GA          16/06/26 utorak            07/07/26 utorak         18/08/26 utorak          08/09/26 utorak         10:30        GA
+            Matrične metode u elektrotehnici (RI)              22/01/26 četvrtak       12/02/26 četvrtak        13          GA          18/06/26 četvrtak          09/07/26 četvrtak       20/08/26 četvrtak        10/09/26 četvrtak        13          GA
+            Signali i sistemi                                  30/01/26 petak          20/02/26 petak          10:30         A2         26/06/26 petak             17/07/26 petak          28/08/26 petak           18/09/26 petak          10:30      Stelekt
+            Teorija elektromagnetnih polja                     26/01/26 ponedjeljak    16/02/26 ponedjeljak    10:30         A2         22/06/26 ponedjeljak       13/07/26 ponedjeljak    24/08/26 ponedjeljak     14/09/26 ponedjeljak    10:30      Stelekt
+                                                                  Završni ispit       Popravni završni ispit                               Završni ispit          Popravni završni ispit      Završni ispit        Popravni završni ispit
+            Predmet                                                                                            Sati         Sala                                                                                                            Sati        Sala
+                                                               Datum       Datum       Datum        Dan                                 Datum    Datum             Datum    Datum          Datum    Datum           Datum    Datum
+            Analogna i integrisana elektronika                 21/01/26 srijeda        11/02/26 srijeda        10:30        G19         17/06/26 srijeda           08/07/26 srijeda        19/08/26 srijeda         09/09/26 srijeda        10:30        A2
+            Elektromehanička konverzija energije               21/01/26 srijeda        11/02/26 srijeda         13          G19         17/06/26 srijeda           08/07/26 srijeda        19/08/26 srijeda         09/09/26 srijeda         13         GMM
+            Električna mjerenja                                27/01/26 utorak         17/02/26 utorak         10:30        G19         23/06/26 utorak            14/07/26 utorak         25/08/26 utorak          15/09/26 utorak         10:30       GMM
+II godina
+
+
+
+
+            Električne mašine I                                19/01/26 ponedjeljak    09/02/26 ponedjeljak    10:30       GMM          15/06/26 ponedjeljak       06/07/26 ponedjeljak    17/08/26 ponedjeljak     07/09/26 ponedjeljak    10:30       GMM
+            Numeričke metode u elektrotehnici                  23/01/26 petak          13/02/26 petak           13          GA          19/06/26 petak             03/07/26 petak          21/08/26 petak           11/09/26 petak           13          GA
+            Programski alati u elektroenergetici               21/01/26 srijeda        11/02/26 srijeda        10:30        GA          17/06/26 srijeda           08/07/26 srijeda        19/08/26 srijeda         09/09/26 srijeda        10:30        GA
+            Elektroenergetske prenosne i distributivne mreže   29/01/26 četvrtak       19/02/26 četvrtak        13          GA          25/06/26 četvrtak          16/07/26 četvrtak       27/08/26 četvrtak        17/09/26 četvrtak        13          GA
+            Senzori i pretvarači                               29/01/26 četvrtak       19/02/26 četvrtak        13       G Lab EM       25/06/26 četvrtak          16/07/26 četvrtak       27/08/26 četvrtak        17/09/26 četvrtak        13          A2
+            Električne instalacije niskog napona               27/01/26 utorak         17/02/26 utorak          13         GMM          23/06/26 utorak            14/07/26 utorak         25/08/26 utorak          15/09/26 utorak          13         GMM
+            Statistička teorija telekomunikacija               29/01/26 četvrtak       19/02/26 četvrtak        13         Stelekt      25/06/26 četvrtak          16/07/26 četvrtak       27/08/26 četvrtak        17/09/26 četvrtak        13        Stelekt
+            Sekvencijalni sklopovi                             23/01/26 petak          13/02/26 petak          10:30       GMM          19/06/26 petak             03/07/26 petak          21/08/26 petak           11/09/26 petak          10:30     GIM MM
+            Modeliranje i analiza podataka                     27/01/26 utorak         17/02/26 utorak         10:30       Stelekt      23/06/26 utorak            14/07/26 utorak         25/08/26 utorak          15/09/26 utorak         10:30      Stelekt
+            Primjena inženjerskih softverskih paketa           19/01/26 ponedjeljak    09/02/26 ponedjeljak     13          GA          15/06/26 ponedjeljak       06/07/26 ponedjeljak    17/08/26 ponedjeljak     07/09/26 ponedjeljak     13          GA
+            Uvod u računarske algoritme                        21/01/26 srijeda        11/02/26 srijeda        10:30       Stelekt      17/06/26 srijeda           08/07/26 srijeda        19/08/26 srijeda         09/09/26 srijeda        10:30      Stelekt
+            Arhitektura računara                               27/01/26 utorak         17/02/26 utorak          13         Stelekt      23/06/26 utorak            14/07/26 utorak         25/08/26 utorak          15/09/26 utorak          13        Stelekt
+            Strukture podataka                                 23/01/26 petak          13/02/26 petak           13         Stelekt      19/06/26 petak             03/07/26 petak          21/08/26 petak           11/09/26 petak           13          A2
+            Linearni dinamički sistemi i signali               27/01/26 utorak         17/02/26 utorak          13          G19         23/06/26 utorak            14/07/26 utorak         25/08/26 utorak          15/09/26 utorak          13          GA
+            Mjerenja u automatici i robotici                   29/01/26 četvrtak       19/02/26 četvrtak        13          G19         25/06/26 četvrtak          16/07/26 četvrtak       27/08/26 četvrtak        17/09/26 četvrtak        13         GMM
+            Projektovanje logičkih sistema                     19/01/26 ponedjeljak    09/02/26 ponedjeljak    10:30        GA          15/06/26 ponedjeljak       06/07/26 ponedjeljak    17/08/26 ponedjeljak     07/09/26 ponedjeljak    10:30        GA
+
+
+            Aprilski ispitni rok održaće se od 01.04. do 15.04.2026. godine a tačan termin održavanja svakog od završnih ispita će biti objavljen nakon što se obave prijave studenata za aprilski rok.
+                                                                                  RASPORED ZAVRŠNIH ISPITA U AKADEMSKOJ 2025/26 GODINI III godina
+                                                                            Januarsko-februarski                                                      Junsko-julski                                    Septembarski
+                                                                   Završni ispit           Popravni ispit                                Završni ispit            Popravni ispit          Završni ispit           Popravni ispit
+  G Predmet                                                                                                     Sati       Sala                                                                                                        Sati       Sala
+                                                                Datum         Dan       Datum          Dan                            Datum         Dan        Datum         Dan       Datum         Dan       Datum          Dan
+             Električne mašine II                               23/01/26 petak           13/02/26 petak         10:30       GA        19/06/26 petak           03/07/26 petak          21/08/26 petak           11/09/26 petak         10:30       GA
+             Linearni sistemi automatskog upravljanja I         19/01/26 ponedjeljak     09/02/26 ponedjeljak    13         A2        15/06/26 ponedjeljak     06/07/26 ponedjeljak    17/08/26 ponedjeljak     07/09/26 ponedjeljak    13         A2
+             Energetska elektronika                             21/01/26 srijeda         11/02/26 srijeda         8         A2        17/06/26 srijeda         08/07/26 srijeda        19/08/26 srijeda         09/09/26 srijeda         8        GMM
+             Električne mreže                                   29/01/26 četvrtak        19/02/26 četvrtak      10:30     Stelekt     25/06/26 četvrtak        16/07/26 četvrtak       27/08/26 četvrtak        17/09/26 četvrtak      10:30      G19
+             Optimizacione metode u elektrotehnici              29/01/26 četvrtak        19/02/26 četvrtak      10:30       GA        25/06/26 četvrtak        16/07/26 četvrtak       27/08/26 četvrtak        17/09/26 četvrtak      10:30       GA
+             Modeliranje sistema                                23/01/26 petak           13/02/26 petak         10:30       A2        19/06/26 petak           03/07/26 petak          21/08/26 petak           11/09/26 petak         10:30       A2
+             Inteligentni sistemi u elektroenergetici           27/01/26 utorak          17/02/26 utorak        10:30       GA        23/06/26 utorak          14/07/26 utorak         25/08/26 utorak          15/09/26 utorak        10:30       GA
+             Osnovi telekomunikacija                            21/01/26 srijeda         11/02/26 srijeda         8       Stelekt     17/06/26 srijeda         08/07/26 srijeda        19/08/26 srijeda         09/09/26 srijeda         8       Stelekt
+             Teorija informacija i kodovanje                    19/01/26 ponedjeljak     09/02/26 ponedjeljak   10:30     Stelekt     15/06/26 ponedjeljak     06/07/26 ponedjeljak    17/08/26 ponedjeljak     07/09/26 ponedjeljak   10:30     Stelekt
+             Telekomunikacioni protokoli                        27/01/26 utorak          17/02/26 utorak         13         GA        23/06/26 utorak          14/07/26 utorak         25/08/26 utorak          15/09/26 utorak         13        G19
+             Obrada digitalnih signala                          30/01/26 petak           20/02/26 petak          13       Stelekt     26/06/26 petak           17/07/26 petak          28/08/26 petak           18/09/26 petak          13       Stelekt
+             Operativni sistemi                                 30/01/26 petak           20/02/26 petak          15       Stelekt     26/06/26 petak           17/07/26 petak          28/08/26 petak           18/09/26 petak          15       Stelekt
+             Baze podataka                                      29/01/26 četvrtak        19/02/26 četvrtak      10:30       A2        25/06/26 četvrtak        16/07/26 četvrtak       27/08/26 četvrtak        17/09/26 četvrtak      10:30     Stelekt
+             Funkcionalno programiranje                         27/01/26 utorak          17/02/26 utorak         17       Stelekt     23/06/26 utorak          14/07/26 utorak         25/08/26 utorak          15/09/26 utorak         17       Stelekt
+             Stohastički sistemi i estimacije                   21/01/26 srijeda         11/02/26 srijeda        13         GA        17/06/26 srijeda         08/07/26 srijeda        19/08/26 srijeda         09/09/26 srijeda        13         GA
+             Instrumentacija                                    27/01/26 utorak          17/02/26 utorak        10:30       A2        23/06/26 utorak          14/07/26 utorak         25/08/26 utorak          15/09/26 utorak        10:30      G19
+             Modeliranje i simulacija                           23/01/26 petak           13/02/26 petak         10:30       A2        19/06/26 petak           03/07/26 petak          21/08/26 petak           11/09/26 petak         10:30       A2
+                                                                   Završni ispit           Popravni ispit                                Završni ispit            Popravni ispit          Završni ispit           Popravni ispit
+             Predmet                                                                                            Sati       Sala                                                                                                        Sati       Sala
+                                                                Datum         Dan       Datum          Dan                            Datum        Datum       Datum        Datum      Datum        Datum      Datum         Datum
+III godina
+
+
+
+
+             Električna postrojenja                             22/01/26 četvrtak        12/02/26 četvrtak       13        G19        18/06/26 četvrtak        09/07/26 četvrtak       20/08/26 četvrtak        10/09/26 četvrtak       13        G19
+             Elektromagnetna kompatibilnost                     26/01/26 ponedjeljak     16/02/26 ponedjeljak    13       Stelekt     22/06/26 ponedjeljak     13/07/26 ponedjeljak    24/08/26 ponedjeljak     14/09/26 ponedjeljak    13       Stelekt
+             Dijagnostika u elektroenergetici                   30/01/26 petak           20/02/26 petak          13     G Lab EM      26/06/26 petak           17/07/26 petak          28/08/26 petak           18/09/26 petak          13         GA
+             Operaciona istraživanja                            28/01/26 srijeda         18/02/26 srijeda         8     G Lab EM      24/06/26 srijeda         15/07/26 srijeda        26/08/26 srijeda         16/09/26 srijeda        13     G Lab EM
+             Elektroenergetske stanice                          28/01/26 srijeda         18/02/26 srijeda        13        G19        24/06/26 srijeda         15/07/26 srijeda        26/08/26 srijeda         16/09/26 srijeda        13        GMM
+             Simulacija sistema                                 22/01/26 četvrtak        12/02/26 četvrtak        8        GMM        18/06/26 četvrtak        09/07/26 četvrtak       20/08/26 četvrtak        10/09/26 četvrtak        8         A2
+             Tehnika visokih napona                             20/01/26 utorak          10/02/26 utorak         15         GA        16/06/26 utorak          07/07/26 utorak         18/08/26 utorak          08/09/26 utorak         15         GA
+             Relejna tehnika                                    30/01/26 petak           20/02/26 petak         10:30      G19        26/06/26 petak           17/07/26 petak          28/08/26 petak           18/09/26 petak         10:30      G19
+             Pametne energetske mreže                           26/01/26 ponedjeljak     16/02/26 ponedjeljak    15         GA        22/06/26 ponedjeljak     13/07/26 ponedjeljak    24/08/26 ponedjeljak     14/09/26 ponedjeljak    15         GA
+             Optičke telekomunikacije                           22/01/26 četvrtak        12/02/26 četvrtak       13       Stelekt     18/06/26 četvrtak        09/07/26 četvrtak       20/08/26 četvrtak        10/09/26 četvrtak       13       Stelekt
+             Digitalne telekomunikacije                         23/01/26 petak           13/02/26 petak          15     Stelekt Lab   19/06/26 petak           03/07/26 petak          21/08/26 petak           11/09/26 petak          15     Stelekt Lab
+             Telekomunikacione mreže                            26/01/26 ponedjeljak     16/02/26 ponedjeljak   10:30      G19        22/06/26 ponedjeljak     13/07/26 ponedjeljak    24/08/26 ponedjeljak     14/09/26 ponedjeljak   10:30       GA
+             Radijski telekomunikacijski sistemi                20/01/26 utorak          10/02/26 utorak         13       Stelekt     16/06/26 utorak          07/07/26 utorak         26/08/26 srijeda         16/09/26 srijeda        13       Stelekt
+             Razvoj telekomunikacijske programske podrške       28/01/26 srijeda         18/02/26 srijeda        13     Stelekt Lab   24/06/26 srijeda         15/07/26 srijeda        18/08/26 utorak         08./09/26 utorak         13        G19
+             Računarska grafika                                 20/01/26 utorak          10/02/26 utorak         13        G19        16/06/26 utorak          07/07/26 utorak         18/08/26 utorak          08/09/26 utorak         13        G19
+             Razvoj softvera                                    28/01/26 srijeda         18/02/26 srijeda        13       Stelekt     24/06/26 srijeda         15/07/26 srijeda        26/08/26 srijeda         16/09/26 srijeda        13       Stelekt
+             Računarske mreže                                   26/01/26 ponedjeljak     16/02/26 ponedjeljak    17       Stelekt     22/06/26 ponedjeljak     13/07/26 ponedjeljak    24/08/26 ponedjeljak     14/09/26 ponedjeljak    17       Stelekt
+             Linearni sistemi automatskog upravljanja II        22/01/26 četvrtak        12/02/26 četvrtak       13        GMM        18/06/26 četvrtak        09/07/26 četvrtak       20/08/26 četvrtak        10/09/26 četvrtak       13        GMM
+             Nelinearni sistemi upravljanja                     30/01/26 petak           20/02/26 petak         10:30       GA        26/06/26 petak           17/07/26 petak          28/08/26 petak           18/09/26 petak         10:30       GA
+             Aktuatori                                          28/01/26 srijeda         18/02/26 srijeda        13        G19        24/06/26 srijeda         15/07/26 srijeda        26/08/26 srijeda         16/09/26 srijeda        13         GA
+             Projektovanje mikroprocesorskih sistema            20/01/26 utorak          10/02/26 utorak         15       Stelekt     16/06/26 utorak          07/07/26 utorak         18/08/26 utorak          08/09/26 utorak         15       Stelekt
+
+
+             Aprilski ispitni rok održaće se od 01.04. do 15.04.2026. godine a tačan termin održavanja svakog od završnih ispita će biti objavljen nakon što se obave prijave studenata za aprilski rok.
+
+
+                                                                                 RASPORED ZAVRŠNIH ISPITA U AKADEMSKOJ 2025/26 GODINI IV godina
+                                                                            Januarsko-februarski                                                      Junsko-julski                                    Septembarski
+                                                                   Završni ispit       Popravni završni ispit                            Završni ispit        Popravni završni ispit      Završni ispit       Popravni završni ispit
+  G Predmet                                                                                                     Sati       Sala                                                                                                        Sati       Sala
+                                                                Datum         Dan       Datum          Dan                            Datum         Dan        Datum         Dan       Datum         Dan       Datum          Dan
+             Elektromotorni pogoni                              20/01/26 utorak          10/02/26 utorak         13       GMM         16/06/26 utorak          07/07/26 utorak         18/08/26 utorak          08/09/26 utorak         13       GMM
+             Zaštitni i upravljački sistemi                     28/01/26 srijeda         18/02/26 srijeda        13         GA        24/06/26 srijeda         15/07/26 srijeda        26/08/26 srijeda         16/09/26 srijeda         8     G Lab EM
+             Proizvodnja električne energije                    22/01/26 četvrtak        12/02/26 četvrtak        8        G19        18/06/26 četvrtak        09/07/26 četvrtak       20/08/26 četvrtak        10/09/26 četvrtak        8       G19
+             Mehatronika                                        26/01/26 ponedjeljak     16/02/26 ponedjeljak    15        G19        22/06/26 ponedjeljak     13/07/26 ponedjeljak    24/08/26 ponedjeljak     14/09/26 ponedjeljak    15       G19
+             Analiza elektroenergetskog sistema                 28/01/26 srijeda         18/02/26 srijeda         8       GMM         24/06/26 srijeda         15/07/26 srijeda        26/08/26 srijeda         16/09/26 srijeda         8       GMM
+             Upravljanje elektroenergetskog sistema             30/01/26 petak           20/02/26 petak           8         GA        26/06/26 petak           17/07/26 petak          28/08/26 petak           18/09/26 petak           8        GA
+             Elektrane                                          26/01/26 ponedjeljak     16/02/26 ponedjeljak    13         GA        22/06/26 ponedjeljak     13/07/26 ponedjeljak    24/08/26 ponedjeljak     14/09/26 ponedjeljak    13        GA
+             Mobilne telekomunikacije                           22/01/26 četvrtak        12/02/26 četvrtak        8       Stelekt     18/06/26 četvrtak        09/07/26 četvrtak       26/08/26 srijeda         16/09/26 srijeda         8      Stelekt
+             Mikroprocesorski sistemi u telekomunikacijama      20/01/26 utorak          10/02/26 utorak          8       Stelekt     16/06/26 utorak          07/07/26 utorak         18/08/26 utorak          08/09/26 utorak          8      Stelekt
+             Mjerenja u telekomunikacijama                      23/01/26 petak           13/02/26 petak           8       Stelekt     19/06/26 petak           03/07/26 petak          21/08/26 petak           11/09/26 petak           8      Stelekt
+             Razvoj mobilnih aplikacija i servisa               28/01/26 srijeda         18/02/26 srijeda         8       Stelekt     24/06/26 srijeda         15/07/26 srijeda        20/08/26 četvrtak       10./09/26 četvrtak        8      Stelekt
+             Windows programiranje                              22/01/26 četvrtak        12/02/26 četvrtak      10:30     GMM         18/06/26 četvrtak        09/07/26 četvrtak       20/08/26 četvrtak        10/09/26 četvrtak      10:30     GMM
+             Dizajn kompajlera                                  20/01/26 utorak          10/02/26 utorak          8       GMM         16/06/26 utorak          07/07/26 utorak         18/08/26 utorak          08/09/26 utorak          8       GMM
+             Digitalni sistemi upravljanja i obrade signala I   26/01/26 ponedjeljak     16/02/26 ponedjeljak   10:30       GA        22/06/26 ponedjeljak     13/07/26 ponedjeljak    24/08/26 ponedjeljak     14/09/26 ponedjeljak   10:30     G19
+             Optimalno upravljanje                              28/01/26 srijeda         18/02/26 srijeda         8         GA        24/06/26 srijeda         15/07/26 srijeda        26/08/26 srijeda         16/09/26 srijeda         8        GA
+                   Projektovanje sistema na čipu                       20/01/26 utorak         10/02/26 utorak         13         GA         16/06/26 utorak         07/07/26 utorak         18/08/26 utorak          08/09/26 utorak        13         GA
+                   Distribuirani sistemi automatizacije                22/01/26 četvrtak       12/02/26 četvrtak       15         GA         18/06/26 četvrtak       09/07/26 četvrtak       20/08/26 četvrtak        10/09/26 četvrtak      15         GA
+                   Obrada i analiza medicinskih slika                  30/01/26 petak          20/02/26 petak           8         A2         26/06/26 petak          17/07/26 petak          28/08/26 petak           18/09/26 petak          8       Stelekt
+IV godina
+
+
+
+                                                                          Završni ispit       Popravni završni ispit                            Završni ispit       Popravni završni ispit      Završni ispit       Popravni završni ispit
+                   Predmet                                                                                             Sati      Sala                                                                                                        Sati      Sala
+                                                                       Datum         Dan       Datum         Dan                             Datum        Datum      Datum        Datum      Datum        Datum      Datum         Datum
+                   Sistemi konverzije energije                         29/01/26 četvrtak       19/02/26 četvrtak        8       Stelekt      25/06/26 četvrtak       16/07/26 četvrtak       27/08/26 četvrtak        17/09/26 četvrtak       8       Stelekt
+                   Upravljanje elektromotornih pogona                  23/01/26 petak          13/02/26 petak          13         G19        19/06/26 petak          03/07/26 petak          21/08/26 petak           11/09/26 petak         13         G19
+                   Energetika i okolina                                19/01/26 ponedjeljak    09/02/26 ponedjeljak     8         GA         15/06/26 ponedjeljak    06/07/26 ponedjeljak    17/08/26 ponedjeljak     07/09/26 ponedjeljak    8         GA
+                   Ekonomika i organizacija poslovanja u energetici    27/01/26 utorak         17/02/26 utorak          8        GMM         23/06/26 utorak         14/07/26 utorak         25/08/26 utorak          15/09/26 utorak         8        GMM
+                   Dinamika elektroenergetskog sistema                 23/01/26 petak          13/02/26 petak           8        GMM         19/06/26 petak          03/07/26 petak          21/08/26 petak           11/09/26 petak          8        GMM
+                   Tržište električne energije                         29/01/26 četvrtak       19/02/26 četvrtak        8         GA         25/06/26 četvrtak       16/07/26 četvrtak       27/08/26 četvrtak        17/09/26 četvrtak       8         GA
+                   Planiranje elektroenergetskih sistema               27/01/26 utorak         17/02/26 utorak          8       Stelekt      23/06/26 utorak         14/07/26 utorak         25/08/26 utorak          15/09/26 utorak         8       Stelekt
+                   Numerički postupci u projektovanju                  19/01/26 ponedjeljak    09/02/26 ponedjeljak    13         G19        15/06/26 ponedjeljak    06/07/26 ponedjeljak    17/08/26 ponedjeljak     07/09/26 ponedjeljak   13         G19
+                   Komutacijski sistemi                                21/01/26 srijeda        11/02/26 srijeda        13     Stelekt Lab.   17/06/26 srijeda        08/07/26 srijeda        25/08/26 utorak          15/09/26 utorak        13     Stelekt Lab.
+                   Projektovanje telekomunikacionih mreža              19/01/26 ponedjeljak    09/02/26 ponedjeljak     8       Stelekt      15/06/26 ponedjeljak    06/07/26 ponedjeljak    17/08/26 ponedjeljak     07/09/26 ponedjeljak    8       Stelekt
+                   Satelitske telekomunikacije                         27/01/26 utorak         17/02/26 utorak          8     Stelekt Lab.   23/06/26 utorak         14/07/26 utorak         18/08/26 utorak         08./09/26 utorak         8     Stelekt Lab.
+                   Multimedijski sistemi i komunikacije                29/01/26 četvrtak       19/02/26 četvrtak        8         G19        25/06/26 četvrtak       16/07/26 četvrtak       27/08/26 četvrtak        17/09/26 četvrtak       8         G19
+                   Infrastruktura i servisi u oblaku                   27/01/26 utorak         17/02/26 utorak          8     Stelekt Lab.   23/06/26 utorak         14/07/26 utorak         19/08/25 srijeda         09/09/26 srijeda        8     Stelekt Lab.
+                   Sistemsko programiranje                             29/01/26 četvrtak       19/02/26 četvrtak       17       Stelekt      25/06/26 četvrtak       16/07/26 četvrtak       27/08/26 četvrtak        17/09/26 četvrtak      17       Stelekt
+                   Razvoj web aplikacija                               21/01/26 srijeda        11/02/26 srijeda        13       Stelekt      17/06/26 srijeda        08/07/26 srijeda        19/08/26 srijeda         09/09/26 srijeda       13       Stelekt
+                   Digitalni sistemi upravljanja i obrade signala II   29/01/26 četvrtak       19/02/26 četvrtak        8      G Lab EM      25/06/26 četvrtak       16/07/26 četvrtak       27/08/26 četvrtak        17/09/26 četvrtak       8        GMM
+                   Robotika i mašinska vizija                          23/01/26 petak          13/02/26 petak          15         GA         19/06/26 petak          03/07/26 petak          21/08/26 petak           11/09/26 petak         15         GA
+                   Upravljanje mehatroničkim sistemima                 27/01/26 utorak         17/02/26 utorak          8         G19        23/06/26 utorak         14/07/26 utorak         25/08/26 utorak          15/09/26 utorak         8         GA
+                   Inteligentni sistemi                                21/01/26 srijeda        11/02/26 srijeda        15         GA         17/06/26 srijeda        08/07/26 srijeda        19/08/26 srijeda         09/09/26 srijeda       15         GA
+
+                   Aprilski ispitni rok održaće se od 01.04. do 15.04.2026. godine a tačan termin održavanja svakog od završnih ispita će biti objavljen nakon što se obave prijave studenata za aprilski rok.
+
+
+                                                                               RASPORED ZAVRŠNIH ISPITA U AKADEMSKOJ 2025/26 GODINI Biomedicinski inženjering
+                                                                                  Januarsko-februarski                                                      Junsko-julski                                   Septembarski
+                                                                          Završni ispit       Popravni završni ispit                            Završni ispit       Popravni završni ispit      Završni ispit       Popravni završni ispit
+    G Predmet                                                                                                          Sati      Sala                                                                                                        Sati      Sala
+                                                                       Datum        Dan        Datum        Dan                              Datum        Dan        Datum        Dan        Datum        Dan        Datum        Dan
+Izborni predmeti
+
+
+
+
+                   Klinički inženjering                                31/01/26 subota         21/02/26 subota         8:30       A2         27/06/26 subota         04/07/26 subota         29/08/26 subota         19/09/26 subota         8:30     FF009
+                                                                          Završni ispit       Popravni završni ispit                            Završni ispit       Popravni završni ispit      Završni ispit       Popravni završni ispit
+                   Predmet                                                                                             Sati      Sala                                                                                                        Sati      Sala
+                                                                       Datum        Dan        Datum        Dan                              Datum       Datum       Datum       Datum       Datum       Datum       Datum       Datum
+                   Principi biomedicinskog inženjeringa                24/01/26 subota         14/02/26 subota         8:30     FF009        20/06/26 subota         04/07/26 subota         22/08/26 subota         12/09/26 subota         8:30       A2
+                   Prepoznavanje uzoraka                               24/01/26 subota         14/02/26 subota         11       FF009        20/06/26 subota         04/07/26 subota         22/08/26 subota         12/09/26 subota         11         A2
+
+
+                   Aprilski ispitni rok održaće se od 01.04. do 15.04.2026. godine a tačan termin održavanja svakog od završnih ispita će biti objavljen nakon što se obave prijave studenata za aprilski rok.
+
