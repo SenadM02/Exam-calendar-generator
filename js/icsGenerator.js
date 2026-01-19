@@ -12,7 +12,7 @@ export async function generateIcs(){
     let ics = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
-        "PRODID:-//fukingics//EN"
+        "PRODID:-//icsgenerator//EN"
     ];
 
     events.forEach(event =>{
