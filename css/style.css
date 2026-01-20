@@ -90,6 +90,9 @@ h1 {
         margin-left: 5%;
         text-align: left;
     }
+    #list {
+        width: 90%
+    }
     h1 {
         width: 100%;
         font-size: 24px;

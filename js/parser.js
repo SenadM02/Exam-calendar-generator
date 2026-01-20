@@ -32,7 +32,7 @@ let subjects = [];
 
 cleanArray.forEach(item => {
     const subjectArr = item.match(regexForSubject);
-    const subject = subjectArr ? subjectArr[1].trim() : "Dammit";
+    const subject = subjectArr ? subjectArr[1].trim() : "Unknown";
     //subjects.push('"'+subject+'"');
     const block1 = item.match(regexForBlock1);
     const block2 = item.match(regexForBlock2);
