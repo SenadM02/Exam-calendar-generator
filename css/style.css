@@ -102,6 +102,7 @@ h1 {
 .footer img {
     height: 10px;
     width: 10x;
+    padding-left: 3px;
 }
 
 @media (max-width: 768px) {
