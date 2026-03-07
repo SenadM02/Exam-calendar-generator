@@ -195,28 +195,20 @@ try {
   const response = await fetch(
     "https://fetuzla.github.io/information/pages.json",
   );
-
-  if (!response.ok) {
-    throw new Error("Network response was not ok");
-  }
-
+  if (!response.ok) throw new Error("Network response was not ok");
   const data = await response.json();
-  otherPages = data;
-  otherPages = otherPages.filter(
-    (page) => page != window.location.pathname.replace(/^\/|\/$/g, ""),
-  );
+  otherPages = data.filter((page) => page.name !== "Exam-calendar-generator");
+  otherPages.forEach((page) => {
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    a.href = `${page.url}`;
+    a.textContent = page.name;
+    li.appendChild(a);
+    menuList.appendChild(li);
+  });
 } catch (error) {
   console.error("Failed to fetch pages:", error);
 }
-
-otherPages.forEach((page) => {
-  const li = document.createElement("li");
-  const a = document.createElement("a");
-  a.href = `https://fetuzla.github.io/${page}/`;
-  a.textContent = page;
-  li.appendChild(a);
-  menuList.appendChild(li);
-});
 
 function toggleMenu() {
   menuOpen = !menuOpen;
