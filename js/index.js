@@ -182,7 +182,7 @@ const menuOpenButton = document.querySelector(".nav-menu p");
 const sideMenu = document.getElementById("sideMenu");
 const sideOverlay = document.getElementById("sideOverlay");
 const menuList = document.getElementById("menuList");
-const closeSide = document.getElementById("closeSideBtn")
+const closeSide = document.getElementById("closeSideBtn");
 
 const helpDropdown = document.getElementById("help-dropdown");
 const closeHelp = document.getElementById("closeHelp");
@@ -203,20 +203,19 @@ try {
   const data = await response.json();
   otherPages = data;
   otherPages = otherPages.filter(
-    (page) => page != window.location.pathname.replace(/^\/|\/$/g, ""),
+    (page) => page.visible && page.name != "Generator rasporeda ispita",
   );
+  otherPages.forEach((page) => {
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    a.href = page.url;
+    a.textContent = page.name;
+    li.appendChild(a);
+    menuList.appendChild(li);
+  });
 } catch (error) {
   console.error("Failed to fetch pages:", error);
 }
-
-otherPages.forEach((page) => {
-  const li = document.createElement("li");
-  const a = document.createElement("a");
-  a.href = `https://fetuzla.github.io/${page}/`;
-  a.textContent = page;
-  li.appendChild(a);
-  menuList.appendChild(li);
-});
 
 function toggleMenu() {
   menuOpen = !menuOpen;
@@ -248,5 +247,3 @@ helpBtn.addEventListener("click", () => {
 closeHelp.addEventListener("click", () => {
   helpDropdown.classList.remove("open");
 });
-
-
